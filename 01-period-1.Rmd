@@ -6,17 +6,23 @@
 
 From “Euphues’ Glass for Europe,” in _Euphues and His England_ (1580)
 
+约翰·李利《尤菲绮斯和他的英格兰》
+
 ## Donald Lupton: London Bridge
 
 From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 4
 
-## Robert Herrick Laments Leaving His Native London
+## Robert Herrick Laments Leaving His Native London {#herrick}
 
 “His Tears to Thamesis,” in _Hesperides_ (1648) (written 1629)
+
+罗伯特·赫里克《金苹果园》
 
 ## Herrick’s Joyful Return to London
 
 “His Return to London,” in _Hesperides_ (1648)
+
+见 \@ref(herrick)
 
 ## John Webster: The Decrepitude of Some London Buildings
 
@@ -25,6 +31,8 @@ From _Westward Ho_ (1607), Act 2, Sc. 1
 ## John Donne: The Lively Streets of London
 
 Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593–1594)
+
+多恩《诗集》
 
 ## William Habington: In Praise of London in the Long Vacation
 
