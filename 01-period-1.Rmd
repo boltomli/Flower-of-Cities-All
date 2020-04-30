@@ -6,17 +6,17 @@
 
 From “Euphues’ Glass for Europe,” in _Euphues and His England_ (1580)
 
-约翰·李利《尤菲绮斯和他的英格兰》
+选自约翰·李利《尤菲绮斯和他的英格兰》
 
-## Donald Lupton: London Bridge
+## \index{Donald Lupton}Donald Lupton: London Bridge {#lupton}
 
 From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 4
 
-## Robert Herrick Laments Leaving His Native London {#herrick}
+## \index{Robert Herrick}Robert Herrick Laments Leaving His Native London {#herrick}
 
 “His Tears to Thamesis,” in _Hesperides_ (1648) (written 1629)
 
-罗伯特·赫里克《金苹果园》
+选自罗伯特·赫里克《金苹果园》
 
 ## Herrick’s Joyful Return to London
 
@@ -32,7 +32,7 @@ From _Westward Ho_ (1607), Act 2, Sc. 1
 
 Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593–1594)
 
-多恩《诗集》
+多恩的诗
 
 ## William Habington: In Praise of London in the Long Vacation
 
@@ -44,21 +44,31 @@ From “To My Worthy Cousin Mr E.C.^[Mr E.C. has not been identified.] : In Prai
 
 From “Of Stage Plays and Interludes with Their Wickedness,” in _The Anatomy of Abuses_ (1583)
 
-## Shakespeare: “On Your Imaginary Forces Work”
+选自菲利蒲·斯塔布斯《陋习的解剖》
+
+## \index{Shakespeare}Shakespeare: “On Your Imaginary Forces Work”
 
 From _Henry V_, Prologue to Act 1 (perf. 1599)
 
-## Shakespeare: The Best Actors Are but Shadows
+选自莎士比亚《亨利五世》
+
+## \index{Shakespeare}Shakespeare: The Best Actors Are but Shadows
 
 From _A Midsummer Night’s Dream_, Act 5, Sc. 1 (perf. 1595/96)
+
+选自莎士比亚《仲夏夜之梦》
 
 ## Thomas Nashe: “Adieu, Farewell, Earth’s Bliss”
 
 “Song,” in _Summers’ Last Will and Testament_ (1600) (written 1592)
 
-## Thomas Dekker: The Plague and Its Victims in 1603
+选自托马斯·纳什《夏天最后的遗嘱》
+
+## \index{Thomas Dekker}Thomas Dekker: The Plague and Its Victims in 1603
 
 From _The Wonderful Year_ (1603)
+
+选自托马斯·德克的小册子
 
 ## THE COURT AND COURTIERS {-}
 
@@ -70,23 +80,29 @@ _Orchestra: A Poem of Dancing_ (1622) (written c. 1594)
 
 From _Colin Clout’s Come Home Again_ (1595) (written 1590–1591), 771–94 [@Spenser1966]
 
+选自埃德蒙·斯宾塞的诗
+
 ## Anon.: A Courtier
 
 From “A Courtier,” in Sir Thomas Overbury, _Characters, or, Witty Descriptions of the Properties of Sundry Persons_ (1614), No. [5] (attrib.)
 
-## Thomas Dekker: “How a Young Gallant Should Behave Himself in an Ordinary”
+## \index{Thomas Dekker}Thomas Dekker: “How a Young Gallant Should Behave Himself in an Ordinary”
 
 From _The Gull’s Hornbook_ [dupe’s primer] (1609), ch. 5
 
+选自托马斯·德克《笨人初级读本》
+
 ## WHO SHOULD ’SCAPE WHIPPING? {-}
 
-## John Earle: A Shopkeeper
+## \index{John Earle}John Earle: A Shopkeeper
 
 From “A Shopkeeper,” in _Micro-cosmography, or, a Piece of the World Discovered_. 5th ed. (1629), No. 70
 
-## Thomas Middleton: A Goldsmith Gulled
+## \index{Thomas Middleton}Thomas Middleton: A Goldsmith Gulled
 
 From _A Chaste Maid in Cheapside_, Act 1, Sc. 1 (1630) (perf. 1613)
+
+选自托马斯·米德尔顿的戏剧
 
 ## Barnabe Rich: Vanity Fair
 
@@ -100,25 +116,31 @@ From _A Caveat or Warning for Common Cursitors Vulgarly Called Vagabonds_ (1573)
 
 From _The Second and Last Part of Coney-Catching_ [@Greene1591]
 
-## Middleton: Roaring Girls
+## \index{Thomas Middleton}Middleton: Roaring Girls
 
 From _The Roaring Girl, or, Moll Cutpurse_, Prologue (1611) (perf. ?1604–1608)
+
+选自米德尔顿《咆哮女郎》（与\index{Thomas Dekker}托马斯·德克合著）
 
 ## Ben Jonson: Pickpockets at Bartholomew Fair
 
 From _Bartholomew Fair_, Act 3, Sc. 5 (1640) (perf. 1614)
 
-## John Earle: A Prison
+## \index{John Earle}John Earle: A Prison
 
 From “A Prison,” in _Micro-cosmography, or, A Piece of the World Discovered_. 5th ed. (1629), No. [12]
 
-## Donald Lupton: Bedlam
+## \index{Donald Lupton}Donald Lupton: Bedlam
 
 From “Bedlam,” in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 19
 
-## Dekker and Middleton: Entertainment Provided by the Inmates of Bedlam
+见 \@ref(lupton)
+
+## \index{Thomas Dekker}Dekker and \index{Thomas Middleton}Middleton: Entertainment Provided by the Inmates of Bedlam
 
 From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
+
+选自德克和米德尔顿《诚实的妓女》
 
 ## THE COMING OF THE COMMONWEALTH {-}
 
@@ -126,10 +148,16 @@ From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 
 “An Horatian Ode upon Cromwell’s Return from Ireland,” in _Miscellaneous Poems_ (1681) (written 1650).
 
-## John Evelyn: “The Funeral Sermon of Preaching”
+安德鲁·马维尔的诗
+
+## \index{John Evelyn}John Evelyn: “The Funeral Sermon of Preaching” {#evelyn}
 
 From his _Diary_ (or _Kalendarium_) on 30 December 1655
 
-## Evelyn: Persecution of Royalist Churchgoers
+选自约翰·伊夫林《日记》
+
+## \index{John Evelyn}Evelyn: Persecution of Royalist Churchgoers
 
 From his _Diary_ (or _Kalendarium_) on 25 December 1657
+
+见 \@ref(evelyn)
