@@ -2,21 +2,29 @@
 
 ## AN OPENING MISCELLANY {-}
 
-## Thomas Hardy, “Snow in the Suburbs”
+## \index{Hardy, Thomas}Thomas Hardy, “Snow in the Suburbs”
 
 From _Human Shows_ (1925) (written 1878–1881)
 
-## Henry James, a Saturday Evening Stroll
+选自托马斯·哈代《人间万象》
+
+## \index{James, Henry}Henry James, a Saturday Evening Stroll {#james}
 
 From _The Princess Casamassima_ (1886), Bk 1, ch. 5
+
+选自亨利·詹姆斯《卡萨玛西玛公主》
 
 ## Lionel Johnson: “By the Statue of King Charles at Charing Cross”
 
 From _Poems_ (1895)
 
-## George Moore: A Train Journey
+莱昂内尔·约翰逊的诗
+
+## \index{Moore, George}George Moore: A Train Journey
 
 From _Esther Waters_ (1894), ch. 31
+
+选自乔治·莫尔《伊丝特·沃特斯》
 
 ## DELIGHTS AND BEAUTIES {-}
 
@@ -24,39 +32,53 @@ From _Esther Waters_ (1894), ch. 31
 
 From _Highways and Byways of London_ (1902), ch. 2
 
-## Henry James: The Appeal of the Great City
+## \index{James, Henry}Henry James: The Appeal of the Great City
 
 From “London” 6, in _The Century Illustrated Monthly Magazine_ 57 (November–April 1888–1889)
 
-## Oscar Wilde, “Impression du Matin”
+亨利·詹姆斯
+
+## \index{Wilde, Oscar}Oscar Wilde, “Impression du Matin”
 
 From _Poems_ (1881)
+
+选自奥斯卡·王尔德《诗集》
 
 ## H. G. Wells: An Evening in Hyde Park
 
 From _Love and Mr Lewisham_ (1900), ch. 22
 
+选自赫伯特·乔治·威尔斯《爱情和鲁雅轩》
+
 ## Robert Bridges, “London Snow”
 
-From _Poems. Third Series_ (1880)
+From _Poems_. Third Series (1880)
+
+选自罗伯特·布里吉斯《短诗集》
 
 ## THE AESTHETIC MOVEMENT {-}
 
-## Oscar Wilde: “London Models”
+## \index{Wilde, Oscar}Oscar Wilde: “London Models”
 
 From _The English Illustrated Magazine_ 6 (January 1889)
+
+奥斯卡·王尔德
 
 ## Vernon Lee: The Mazes of Aesthetic London
 
 From _Miss Brown_ (1884), Vol. 1, Bk 4, ch. 4
 
-## George Moore: Bohemian Life in Mayfair
+## \index{Moore, George}George Moore: Bohemian Life in Mayfair
 
 From _Confessions of a Young Man_ (1886), ch. 16
 
-## George Gissing: A Struggling Writer
+选自乔治·莫尔《一个青年人的自白》
+
+## \index{Gissing, George}George Gissing: A Struggling Writer
 
 From _New Grub Street_ (1891), Part 1, ch. 4
+
+选自乔治·吉辛《新寒士街》
 
 ## INSTITUTIONS {-}
 
@@ -64,17 +86,25 @@ From _New Grub Street_ (1891), Part 1, ch. 4
 
 “When Britain really ruled the waves,” in _Songs of a Savoyard_ (1890)
 
-## Anthony Trollope: The House of Commons
+威廉·S·吉尔伯特
+
+## \index{Trollope, Anthony}Anthony Trollope: The House of Commons
 
 From _The Way We Live Now_ (1875), ch. 69
 
-## George Gissing: The Crystal Palace Park
+选自安东尼·特罗洛普《如今世道》
+
+## \index{Gissing, George}George Gissing: The Crystal Palace Park
 
 From _The Nether World_ (1889), ch. 12
+
+乔治·吉辛
 
 ## Arnold Bennett: A London Bank
 
 From _Teresa of Watling Street_ (1904), ch. 1
+
+阿诺德·贝内特
 
 ## C. W. Murphy: “I Live in Trafalgar Square”
 
@@ -82,13 +112,17 @@ From “I live in Trafalgar Square” (1902)
 
 ## THE THAMES {-}
 
-## Henry James: A Steamer Down the Thames
+## \index{James, Henry}Henry James: A Steamer Down the Thames
 
 From _The Princess Casamassima_ (1886), Bk 4, ch. 35
 
-## Joseph Conrad: Sunset on the Thames
+见 \@ref(james)
+
+## \index{Conrad, Joseph}Joseph Conrad: Sunset on the Thames
 
 From _Heart of Darkness_ (1902), ch. 1
+
+选自约瑟夫·康拉德《黑暗的心》
 
 ## MIDDLE CLASS LIFE {-}
 
@@ -96,17 +130,25 @@ From _Heart of Darkness_ (1902), ch. 1
 
 From _Daniel Deronda_ (1876), ch. 18
 
+选自乔治·艾略特《丹尼尔·德龙达》
+
 ## Margaret Oliphant: The Painter and the Philistine
 
 From _At His Gates_ (1872), ch. 1
 
-## George Gissing: The Women’s Movement
+玛格丽特·奥利芬特
+
+## \index{Gissing, George}George Gissing: The Women’s Movement
 
 From _The Odd Women_ (1893), ch. 13
+
+选自乔治·吉辛《古怪的女人》
 
 ## Mary Augusta Ward: A Politician and His Wife
 
 From _The Marriage of William Ashe_ (1905), ch. 7
+
+玛丽·奥古斯塔·沃德
 
 ## Lady St Helier: Politics and the Music-Hall
 
@@ -116,39 +158,57 @@ From _Memories of Fifty Years_ (1909), ch. 13
 
 From _The Diary of a Nobody_ (1892), ch. 4
 
+选自乔治·格罗史密斯和威登·格罗史密斯《小人物日记》（威登是乔治的弟弟）
+
 ## WORKING-CLASS LIFE {-}
 
-## George Gissing: Supreme Ugliness in the Caledonian Road
+## \index{Gissing, George}George Gissing: Supreme Ugliness in the Caledonian Road
 
 From _Thyrza_ (1887), ch. 27
 
-## Joseph Conrad: Bombs and Pornography
+乔治·吉辛
+
+## \index{Conrad, Joseph}Joseph Conrad: Bombs and Pornography
 
 From _The Secret Agent: A Simple Tale_ (1907), ch. 1
+
+选自约瑟夫·康拉德《间谍》
 
 ## Israel Zangwill: A Child of the Ghetto
 
 From _Children of the Ghetto: A Study of a Peculiar People_ (1892), Bk 1, ch. 1
 
+伊斯雷尔·赞格威尔
+
 ## D. H. Lawrence: Outcasts of Waterloo Bridge
 
 From _The White Peacock_ (1911), Part 3, ch. 5
+
+选自D·H·劳伦斯《白孔雀》
 
 ## Amy Levy: “Ballade of an Omnibus”
 
 From _A London Plane-Tree and Other Verse_ (1889)
 
+艾米·雷维的诗
+
 ## Arthur Morrison: A Slum
 
 From _A Child of the Jago_ (1896), ch. 1
+
+选自阿瑟·莫里森《雅格的一个孩子》
 
 ## Baroness Emmuska Orczy: Death on the Tube
 
 From ‘The Mysterious Death on the Underground Railway’ (1901)
 
+选自奥希兹女男爵《地铁神秘命案》
+
 ## Virginia Woolf: Leaving London
 
 From _The Voyage Out_ (1915), ch. 1
+
+选自弗吉尼亚·伍尔芙《远航》
 
 ## AFTER LONDON {-}
 
@@ -156,8 +216,12 @@ From _The Voyage Out_ (1915), ch. 1
 
 From _After London, or Wild England_ (1885), Pt. 1, ch. 5
 
+选自理查德·杰弗里斯《后伦敦谈》
+
 ## EPILOGUE: TOWN VERSUS COUNTRY {-}
 
 ## Beatrix Potter: Town Mouse and Country Mouse
 
 From _The Tale of Johnny Town-mouse_ (1918)
+
+选自比阿特丽克斯·波特《城里老鼠约翰尼的故事》
