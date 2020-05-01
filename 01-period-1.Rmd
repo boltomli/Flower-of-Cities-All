@@ -8,17 +8,17 @@ From “Euphues’ Glass for Europe,” in _Euphues and His England_ (1580)
 
 选自约翰·李利《尤菲绮斯和他的英格兰》
 
-## \index{Donald Lupton}Donald Lupton: London Bridge {#lupton}
+## \index{Lupton, Donald}Donald Lupton: London Bridge {#lupton}
 
 From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 4
 
-## \index{Robert Herrick}Robert Herrick Laments Leaving His Native London {#herrick}
+## \index{Herrick, Robert}Robert Herrick Laments Leaving His Native London {#herrick}
 
 “His Tears to Thamesis,” in _Hesperides_ (1648) (written 1629)
 
 选自罗伯特·赫里克《金苹果园》
 
-## Herrick’s Joyful Return to London
+## \index{Herrick, Robert}Herrick’s Joyful Return to London
 
 “His Return to London,” in _Hesperides_ (1648)
 
@@ -64,7 +64,7 @@ From _A Midsummer Night’s Dream_, Act 5, Sc. 1 (perf. 1595/96)
 
 选自托马斯·纳什《夏天最后的遗嘱》
 
-## \index{Thomas Dekker}Thomas Dekker: The Plague and Its Victims in 1603
+## \index{Dekker, Thomas}Thomas Dekker: The Plague and Its Victims in 1603
 
 From _The Wonderful Year_ (1603)
 
@@ -86,7 +86,7 @@ From _Colin Clout’s Come Home Again_ (1595) (written 1590–1591), 771–94 [@
 
 From “A Courtier,” in Sir Thomas Overbury, _Characters, or, Witty Descriptions of the Properties of Sundry Persons_ (1614), No. [5] (attrib.)
 
-## \index{Thomas Dekker}Thomas Dekker: “How a Young Gallant Should Behave Himself in an Ordinary”
+## \index{Dekker, Thomas}Thomas Dekker: “How a Young Gallant Should Behave Himself in an Ordinary”
 
 From _The Gull’s Hornbook_ [dupe’s primer] (1609), ch. 5
 
@@ -94,11 +94,11 @@ From _The Gull’s Hornbook_ [dupe’s primer] (1609), ch. 5
 
 ## WHO SHOULD ’SCAPE WHIPPING? {-}
 
-## \index{John Earle}John Earle: A Shopkeeper
+## \index{Earle, John}John Earle: A Shopkeeper
 
 From “A Shopkeeper,” in _Micro-cosmography, or, a Piece of the World Discovered_. 5th ed. (1629), No. 70
 
-## \index{Thomas Middleton}Thomas Middleton: A Goldsmith Gulled
+## \index{Middleton, Thomas}Thomas Middleton: A Goldsmith Gulled
 
 From _A Chaste Maid in Cheapside_, Act 1, Sc. 1 (1630) (perf. 1613)
 
@@ -116,11 +116,11 @@ From _A Caveat or Warning for Common Cursitors Vulgarly Called Vagabonds_ (1573)
 
 From _The Second and Last Part of Coney-Catching_ [@Greene1591]
 
-## \index{Thomas Middleton}Middleton: Roaring Girls
+## \index{Middleton, Thomas}Middleton: Roaring Girls
 
 From _The Roaring Girl, or, Moll Cutpurse_, Prologue (1611) (perf. ?1604–1608)
 
-选自米德尔顿《咆哮女郎》（与\index{Thomas Dekker}托马斯·德克合著）
+选自米德尔顿《咆哮女郎》（与\index{Dekker, Thomas}托马斯·德克合著）
 
 ## Ben Jonson: Pickpockets at Bartholomew Fair
 
@@ -128,17 +128,17 @@ From _Bartholomew Fair_, Act 3, Sc. 5 (1640) (perf. 1614)
 
 选自本·琼生《巴托罗缪市集》
 
-## \index{John Earle}John Earle: A Prison
+## \index{Earle, John}John Earle: A Prison
 
 From “A Prison,” in _Micro-cosmography, or, A Piece of the World Discovered_. 5th ed. (1629), No. [12]
 
-## \index{Donald Lupton}Donald Lupton: Bedlam
+## \index{Lupton, Donald}Donald Lupton: Bedlam
 
 From “Bedlam,” in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 19
 
 见 \@ref(lupton)
 
-## \index{Thomas Dekker}Dekker and \index{Thomas Middleton}Middleton: Entertainment Provided by the Inmates of Bedlam
+## \index{Dekker, Thomas}Dekker and \index{Middleton, Thomas}Middleton: Entertainment Provided by the Inmates of Bedlam
 
 From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 
@@ -152,13 +152,13 @@ From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 
 安德鲁·马维尔的诗
 
-## \index{John Evelyn}John Evelyn: “The Funeral Sermon of Preaching” {#evelyn}
+## \index{Evelyn, John}John Evelyn: “The Funeral Sermon of Preaching” {#evelyn}
 
 From his _Diary_ (or _Kalendarium_) on 30 December 1655
 
 选自约翰·伊夫林《日记》
 
-## \index{John Evelyn}Evelyn: Persecution of Royalist Churchgoers
+## \index{Evelyn, John}Evelyn: Persecution of Royalist Churchgoers
 
 From his _Diary_ (or _Kalendarium_) on 25 December 1657
 
