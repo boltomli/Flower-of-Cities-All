@@ -12,12 +12,13 @@ documentclass: ctexbook
 link-citations: yes
 colorlinks: yes
 graphics: yes
-fontsize: 11pt
+fontsize: 10pt
 bibliography:
 - book.bib
 - packages.bib
 site: bookdown::bookdown_site
 biblio-style: apalike
+links-as-notes: true
 ---
 
 # About {#about}
@@ -43,6 +44,6 @@ This book is an anthology of extracts of literary writing (in prose, verse and d
 **DOI** `https://doi.org/10.1007/978-3-030-05609-4`  
 **Copyright Information** The Editor(s) (if applicable) and The Author(s) 2019  
 **Publisher Name** Palgrave Macmillan, Cham  
-**eBook Packages** [Literature, Cultural and Media   Studies](https://link.springer.com/search?facet-content-type=%22Book%22&package=41173&facet-start-year=2019&facet-end-year=2019)  
+**eBook Packages** [Literature, Cultural and Media Studies](https://link.springer.com/search?facet-content-type=%22Book%22&package=41173&facet-start-year=2019&facet-end-year=2019)  
 **Print ISBN** 978-3-030-05608-7  
 **Online ISBN** 978-3-030-05609-4  
