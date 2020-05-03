@@ -3,6 +3,7 @@ bookdown::pdf_book:
     in_header: latex/preamble.tex
     after_body: latex/after_body.tex
   latex_engine: xelatex
+  citation_package: natbib
   keep_tex: yes
   pandoc_args: [--top-level-division=chapter, --wrap=none]
   toc_depth: 3
