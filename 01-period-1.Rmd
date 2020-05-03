@@ -4,7 +4,7 @@
 
 ## John Lyly: London the Ideal City
 
-From “Euphues’ Glass for Europe,” in _Euphues and His England_ (1580)
+From “Euphues' Glass for Europe,” in _Euphues and His England_ (1580)
 
 选自约翰·李利《尤菲绮斯和他的英格兰》
 
@@ -22,7 +22,7 @@ From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ 
 |    To thee my silver-footed Thamesis. [_the Thames_]
 |    No more shall I reiterate^[**reiterate**: go up and down.] thy Strand,^[**Strand**: the river shores; the street known as the **Strand**, joining London and Westminster.]
 |    Whereon so many stately structures stand;
-|    Nor in the summer’s sweeter evenings go
+|    Nor in the summer's sweeter evenings go
 |    To bathe in thee, as thousand others do.
 |    No more shall I along thy crystal glide
 |    In barge with boughs and rushes beautified,
@@ -32,8 +32,8 @@ From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ 
 |    Put from, or draw unto the faithful shore;
 |    And landing here, or safely landing there,
 |    Make way to my beloved Westminster,^[**Westminster**: Herrick probably lived here before his departure.]
-|    Or to the golden Cheapside^[**golden Cheapside**: **Cheapside** was the goldsmith’s district.], where the earth
-|    Of Julia Herrick gave to me my birth.^[**the earth ... birth**: Herrick’s mother died shortly before he left for Devon; hence the mention of the **earth** of her grave.]
+|    Or to the golden Cheapside^[**golden Cheapside**: **Cheapside** was the goldsmith's district.], where the earth
+|    Of Julia Herrick gave to me my birth.^[**the earth ... birth**: Herrick's mother died shortly before he left for Devon; hence the mention of the **earth** of her grave.]
 |    May all clean nymphs and curious water dames,
 |    With swan-like state, float up and down thy streams;
 |    No drought upon thy wanton waters fall
@@ -45,7 +45,7 @@ From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ 
 |    Grow young with tides, and though I see ye never,
 |    Receive this vow: “so fare-ye-well forever.”
 
-## \index{Herrick, Robert}Herrick’s Joyful Return to London
+## \index{Herrick, Robert}Herrick's Joyful Return to London
 
 “His Return to London,” in _Hesperides_ (1648)
 
@@ -53,10 +53,10 @@ From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ 
 
 |    From the dull cónfines of the drooping west,
 |    To see the day spring from the pregnant east,
-|    Ravish’d in spirit, I come, nay more, I fly
+|    Ravish'd in spirit, I come, nay more, I fly
 |    To thee, blest place of my nativity!
-|    Thus, thus with hallow’d foot I touch the ground,
-|    With thousand blessings by thy fortune crown’d.
+|    Thus, thus with hallow'd foot I touch the ground,
+|    With thousand blessings by thy fortune crown'd.
 |    O fruitful Genius! that bestowest here
 |    An everlasting plenty, year by year.
 |    O Place! O People! Manners! framed to please
@@ -65,10 +65,10 @@ From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ 
 |    That I amongst you live a Citizen.
 |    London my home is, though by hard fate sent
 |    Into a long and irksome banishment;
-|    Yet since call’d back, henceforward let me be,
-|    O native country, repossess’d by thee!
-|    For, rather than I’ll to the west return,^[**to the west return**: Herrick’s parish was of course in the **west**, but so is the setting sun, traditionally associated with death.]
-|    I’ll beg of thee first here to have mine urn.
+|    Yet since call'd back, henceforward let me be,
+|    O native country, repossess'd by thee!
+|    For, rather than I'll to the west return,^[**to the west return**: Herrick's parish was of course in the **west**, but so is the setting sun, traditionally associated with death.]
+|    I'll beg of thee first here to have mine urn.
 |    Weak I am grown, and must in short time fall;
 |    Give thou my sacred relics burial.^[**Weak ... burial**: Herrick was in fact only 56; he did not die in London. He returned to Dean Prior when his living was restored in 1662 and was buried there on his death in 1674.]
 
@@ -77,12 +77,12 @@ From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ 
 From _Westward Ho_ (1607), Act 2, Sc. 1
 
 \begin{drama}
-\speaker{Honeysuckle}[...W]hat news flutters abroad? Do jackdaws dung the top of Paul’s steeple still?\footnote{\textbf{Paul’s steeple}: old St Paul’s Cathedral lost its steeple to lightning in 1561.}
+\speaker{Honeysuckle}[...W]hat news flutters abroad? Do jackdaws dung the top of Paul's steeple still?\footnote{\textbf{Paul's steeple}: old St Paul's Cathedral lost its steeple to lightning in 1561.}
 \speaker{Justiniano}The more is the pity if any daws do come into the temple, as I fear they do.
 \speaker{Honeysuckle}They say Charing Cross is fallen down since I went to Rochelle\footnote{\textbf{Rochelle}: La Rochelle, a prosperous Huguenot (Protestant) city in SW France.};
-but that’s no such wonder: ’twas old, and stood awry, as most part of the
+but that's no such wonder: 'twas old, and stood awry, as most part of the
 world can tell. And though it lack under-propping, yet, like great fellows at a
-wrestling, when their heels are once flying up no man will save ’em: down they
+wrestling, when their heels are once flying up no man will save 'em: down they
 fall, and there let them lie, though they were bigger than the Guard. Charing
 Cross was old, and old things must shrink as well as new Northern cloth.\footnote{\textbf{new \ldots{} cloth}: Cheating tailors stretched their \textbf{cloth} tightly on its frame so that it shrank when it became wet.}
 \speaker{Justiniano}Your worship is in the right way verily: they must so, but a number
@@ -101,7 +101,7 @@ Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593–1594)
 
 ## William Habington: In Praise of London in the Long Vacation
 
-From “To My Worthy Cousin Mr E.C.^[Mr E.C. has not been identified.] : In Praise of the City Life in the Long Vacation,” in _Castara_ (1634)
+From “To My Worthy Cousin Mr E.C.^[**Mr E.C.** has not been identified.] : In Praise of the City Life in the Long Vacation,” in _Castara_ (1634)
 
 ## DRAMA AND THE THEATRE {-}
 
@@ -119,13 +119,13 @@ From _Henry V_, Prologue to Act 1 (perf. 1599)
 
 ## \index{Shakespeare}Shakespeare: The Best Actors Are but Shadows
 
-From _A Midsummer Night’s Dream_, Act 5, Sc. 1 (perf. 1595/96)
+From _A Midsummer Night's Dream_, Act 5, Sc. 1 (perf. 1595/96)
 
 选自莎士比亚《仲夏夜之梦》
 
-## Thomas Nashe: “Adieu, Farewell, Earth’s Bliss”
+## Thomas Nashe: “Adieu, Farewell, Earth's Bliss”
 
-“Song,” in _Summers’ Last Will and Testament_ (1600) (written 1592)
+“Song,” in _Summers' Last Will and Testament_ (1600) (written 1592)
 
 选自托马斯·纳什《夏天最后的遗嘱》
 
@@ -137,13 +137,13 @@ From _The Wonderful Year_ (1603)
 
 ## THE COURT AND COURTIERS {-}
 
-## Sir John Davies: “Our Glorious English Court’s Divine Image”
+## Sir John Davies: “Our Glorious English Court's Divine Image”
 
 _Orchestra: A Poem of Dancing_ (1622) (written c. 1594)
 
 ## Edmund Spenser: Another View of Love at Court
 
-From _Colin Clout’s Come Home Again_ (1595) (written 1590–1591), 771–94 [@Spenser1966]
+From _Colin Clout's Come Home Again_ (1595) (written 1590–1591), 771–94 [@Spenser1966]
 
 选自埃德蒙·斯宾塞的诗
 
@@ -153,11 +153,11 @@ From “A Courtier,” in Sir Thomas Overbury, _Characters, or, Witty Descriptio
 
 ## \index{Dekker, Thomas}Thomas Dekker: “How a Young Gallant Should Behave Himself in an Ordinary”
 
-From _The Gull’s Hornbook_ [dupe’s primer] (1609), ch. 5
+From _The Gull's Hornbook_ [dupe's primer] (1609), ch. 5
 
 选自托马斯·德克《笨人初级读本》
 
-## WHO SHOULD ’SCAPE WHIPPING? {-}
+## WHO SHOULD 'SCAPE WHIPPING? {-}
 
 ## \index{Earle, John}John Earle: A Shopkeeper
 
@@ -213,7 +213,7 @@ From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 
 ## Andrew Marvell: The Execution of Charles I
 
-“An Horatian Ode upon Cromwell’s Return from Ireland,” in _Miscellaneous Poems_ (1681) (written 1650).
+“An Horatian Ode upon Cromwell's Return from Ireland,” in _Miscellaneous Poems_ (1681) (written 1650).
 
 安德鲁·马维尔的诗
 
