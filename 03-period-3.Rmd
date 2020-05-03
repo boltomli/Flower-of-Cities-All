@@ -1,4 +1,4 @@
-# Period 3: London—New Riches, New Squalor (1781–1870)
+# Period 3: London---New Riches, New Squalor (1781--1870)
 
 ## AN OPENING MISCELLANY {-}
 
@@ -8,27 +8,27 @@ From _Villette_ (1853), Vol. 1, ch. 6
 
 选自夏洛蒂·勃朗特《维莱特》
 
-## Mary Robinson: “London’s Summer Morning”
+## Mary Robinson: ``London's Summer Morning"
 
 From _Lyrical Tales_ (1800)
 
 玛丽·鲁宾逊的诗
 
-## \index{Dickens, Charles}Charles Dickens: A London ‘Pea-Souper’
+## \index{Dickens, Charles}Charles Dickens: A London 'Pea-Souper'
 
-From _Bleak House_ (1852–1853), ch. 1
+From _Bleak House_ (1852--1853), ch. 1
 
 选自查尔斯·狄更斯《荒凉山庄》
 
 ## William Cobbett: The Great Wen
 
-From “Kentish Journal,” in _Rural Rides_ (1853) (written 1821)
+From ``Kentish Journal," in _Rural Rides_ (1853) (written 1821)
 
 选自威廉·科贝特《骑马乡行记》
 
 ## \index{Wordsworth, William}William Wordsworth: Alienation and Anonymity
 
-From _The Prelude, or, Growth of a Poet’s Mind_ (1850), Bk 7
+From _The Prelude, or, Growth of a Poet's Mind_ (1850), Bk 7
 
 选自威廉·华兹华斯《序曲》
 
@@ -38,27 +38,27 @@ From _In Memoriam A.H.H._ (1850), Sect. 7
 
 选自阿尔弗雷德·丁尼生《悼念》（亚瑟·亨利·哈兰姆）
 
-## \index{Blake, William}William Blake: “Marks of Woe” {#blake}
+## \index{Blake, William}William Blake: ``Marks of Woe" {#blake}
 
-“London,” from _Songs of Innocence and Experience_ (1794)
+``London," from _Songs of Innocence and Experience_ (1794)
 
 选自威廉·布莱克《纯真之歌》《经验之歌》
 
 ## \index{Dickens, Charles}Charles Dickens: A Sunday in London {#dickens}
 
-From _Little Dorrit, or Nobody’s Fault_ (1856–1857), ch. 3
+From _Little Dorrit, or Nobody's Fault_ (1856--1857), ch. 3
 
 选自查尔斯·狄更斯《小杜丽》
 
-## \index{Thackeray, William Makepeace}William Makepeace Thackeray: “Going to See a Man Hanged.”
+## \index{Thackeray, William Makepeace}William Makepeace Thackeray: ``Going to See a Man Hanged."
 
-From _Fraser’s Magazine_, 22 July 1840
+From _Fraser's Magazine_, 22 July 1840
 
 威廉·梅克比斯·萨克雷，选自《弗雷泽杂志》
 
 ## DELIGHTS AND BEAUTIES {-}
 
-## Thomas Hood: Let’s All Go Down the Strand
+## Thomas Hood: Let's All Go Down the Strand
 
 From _A Sentimental Journey from Islington to Waterloo Bridge_ (1821)
 
@@ -66,17 +66,17 @@ From _A Sentimental Journey from Islington to Waterloo Bridge_ (1821)
 
 ## \index{Ruskin, John}John Ruskin Recalls a Childhood Paradise at Herne Hill
 
-From _Præterita: Outlines of Scenes and Thoughts Perhaps Worthy of Memory in My Past Life_ (1886–1889), Vol. 1, ch. 2
+From _Præterita: Outlines of Scenes and Thoughts Perhaps Worthy of Memory in My Past Life_ (1886--1889), Vol. 1, ch. 2
 
 选自约翰·拉斯金《往昔》
 
-## \index{Wordsworth, William}William Wordsworth: “Composed Upon Westminster Bridge, September 3, 1802”
+## \index{Wordsworth, William}William Wordsworth: ``Composed Upon Westminster Bridge, September 3, 1802"
 
 From _Poems in Two Volumes_ (1807)
 
 选自威廉·华兹华斯《诗，两卷》
 
-## Matthew Arnold, “Lines Written in Kensington Gardens”
+## Matthew Arnold, ``Lines Written in Kensington Gardens"
 
 From _Empedocles on Etna and Other Poems_ (1852)
 
@@ -88,7 +88,7 @@ From _Lavengro_ (1851), ch. 31
 
 乔治·博罗
 
-## Frederick Locker-Lampson, “St. James’s Street,” 1867
+## Frederick Locker-Lampson, ``St. James's Street," 1867
 
 From _Lyra Elegantiarum_ (1867)
 
@@ -106,15 +106,15 @@ From _Our Old Home_ (1863)
 
 ## INSTITUTIONS {-}
 
-## \index{Blake, William}William Blake: St Paul’s Cathedral on Holy Thursday
+## \index{Blake, William}William Blake: St Paul's Cathedral on Holy Thursday
 
-“Holy Thursday” in _Songs of Innocence and Experience_ (1794)
+``Holy Thursday" in _Songs of Innocence and Experience_ (1794)
 
 见 \@ref(blake)
 
-## \index{De Quincey, Thomas}Thomas De Quincey: Tourists Must Pay to See the Sights of St Paul’s Cathedral
+## \index{De Quincey, Thomas}Thomas De Quincey: Tourists Must Pay to See the Sights of St Paul's Cathedral
 
-From “The Nation of London,” in _Autobiographical Sketches_ (1853), ch. 7 (written 1834)
+From ``The Nation of London," in _Autobiographical Sketches_ (1853), ch. 7 (written 1834)
 
 托马斯·德·昆西
 
@@ -126,7 +126,7 @@ From _Dombey and Son_ (1848), ch. 6
 
 ## \index{Mayhew, Henry}Henry Mayhew and George Cruikshank: The Great Exhibition and the Crystal Palace
 
-From _The World’s Show, 1851, or, The Adventures of Mr and Mrs Sandboys and Family, Who Came up to London to ‘Enjoy Themselves,’ and to See the Great Exhibition_ (1851), Chs. 12 and 13
+From _The World's Show, 1851, or, The Adventures of Mr and Mrs Sandboys and Family, Who Came up to London to 'Enjoy Themselves,' and to See the Great Exhibition_ (1851), Chs. 12 and 13
 
 亨利·梅休和乔治·克鲁克香克
 
@@ -138,7 +138,7 @@ From _The Opening of the Crystal Palace Considered in Some of Its Relations to t
 
 ## \index{De Quincey, Thomas}Thomas de Quincey: The Theatre Royal, Drury Lane, Destroyed
 
-From “On Murder, Considered as One of the Fine Arts”: “Postscript” (1854)
+From ``On Murder, Considered as One of the Fine Arts": ``Postscript" (1854)
 
 托马斯·德·昆西
 
@@ -156,23 +156,23 @@ From _The Warden_ (1855), ch. 16
 
 选自安东尼·特罗洛普《巴彻斯特养老院》
 
-## \index{Tennyson, Lord Alfred}Alfred, Lord Tennyson: “Ode Sung at the Opening of the International Exhibition” (1862)
+## \index{Tennyson, Lord Alfred}Alfred, Lord Tennyson: ``Ode Sung at the Opening of the International Exhibition" (1862)
 
 阿尔弗雷德·丁尼生所作颂歌
 
 ## \index{Dickens, Charles}Charles Dickens: A London Hackney-Coach
 
-From _Sketches by Boz_, 1836–1837
+From _Sketches by Boz_, 1836--1837
 
 选自查尔斯·狄更斯《博兹特写集》
 
-## Charles Lamb: “The Old Benchers of the Inner Temple” {#lamb}
+## Charles Lamb: ``The Old Benchers of the Inner Temple" {#lamb}
 
 From _Essays of Elia_, 2nd Series, 1833
 
 选自查尔斯·兰姆《伊利亚续笔》
 
-## Wilkie Collins: A Child’s Sunday in London
+## Wilkie Collins: A Child's Sunday in London
 
 From _Hide and Seek_ (1854, revised 1857), ch. 1.
 
@@ -180,7 +180,7 @@ From _Hide and Seek_ (1854, revised 1857), ch. 1.
 
 ## Elizabeth Gaskell: Haste to the Wedding
 
-From _North and South_ (1854–1855), ch. 1
+From _North and South_ (1854--1855), ch. 1
 
 选自伊丽莎白·盖斯凯尔《北与南》
 
@@ -204,17 +204,17 @@ From _Vanity Fair, or, A Novel Without a Hero_ (1848), ch. 12
 
 ## Robert Smith Surtees, Sponge in the City
 
-From _Mr Sponge’s Sporting Tour_ (1853), ch. 1
+From _Mr Sponge's Sporting Tour_ (1853), ch. 1
 
 罗伯特·史密斯·瑟蒂斯
 
 ## Herman Melville: The Temple
 
-From “The Paradise of Bachelors and The Tartarus of Maids,” (1855)
+From ``The Paradise of Bachelors and The Tartarus of Maids," (1855)
 
 赫尔曼·梅尔维尔
 
-## \index{Thackeray, William Makepeace}William Makepeace Thackeray: “Great City Snobs”
+## \index{Thackeray, William Makepeace}William Makepeace Thackeray: ``Great City Snobs"
 
 From _The Book of Snobs_ (1848), ch. 3
 
@@ -222,7 +222,7 @@ From _The Book of Snobs_ (1848), ch. 3
 
 ## Elizabeth Barrett Browning: A Writing Woman
 
-From _Aurora Leigh_ (1856), Book III, 158–203
+From _Aurora Leigh_ (1856), Book III, 158--203
 
 选自伊丽莎白·芭蕾特·布朗宁《奥罗拉·李》
 
@@ -230,13 +230,13 @@ From _Aurora Leigh_ (1856), Book III, 158–203
 
 ## Leigh Hunt: A London Waiter
 
-“The Waiter,” from _The London Journal_, No. 63, 13 June 1835
+``The Waiter," from _The London Journal_, No. 63, 13 June 1835
 
 利·亨特
 
 ## \index{Mayhew, Henry}Henry Mayhew: Covent Garden Market {#mayhew}
 
-From “Of Covent Garden Market,” in _London Labour and the London Poor_ (1851)
+From ``Of Covent Garden Market," in _London Labour and the London Poor_ (1851)
 
 选自亨利·梅休《伦敦劳工和伦敦穷人》
 
@@ -252,35 +252,35 @@ From _Alton Locke: Tailor and Poet_ (1850), Vol. 1, ch. 8
 
 选自查尔斯·金斯莱《阿尔顿·洛克》
 
-## William Morris: “Prologue: The Wanderers”
+## William Morris: ``Prologue: The Wanderers"
 
-From _The Earthly Paradise_, 1868–1870
+From _The Earthly Paradise_, 1868--1870
 
 选自威廉·莫里斯《地上乐园》
 
-## \index{Mayhew, Henry}Henry Mayhew: “The Narrative of a Gay Woman”
+## \index{Mayhew, Henry}Henry Mayhew: ``The Narrative of a Gay Woman"
 
 From _London Labour and the London Poor_ (1861)
 
 见 \@ref(mayhew)
 
-## \index{De Quincey, Thomas}Thomas De Quincey: “Preliminary Confessions”
+## \index{De Quincey, Thomas}Thomas De Quincey: ``Preliminary Confessions"
 
 From _Confessions of an English Opium Eater_ (1822)
 
 选自托马斯·德·昆西《一个英格兰鸦片吸食者的自白》
 
-## Dante Gabriel Rossetti: “Jenny” {#dante-rossetti}
+## Dante Gabriel Rossetti: ``Jenny" {#dante-rossetti}
 
-From “Jenny” (1870, written in 1843), lines 111–153
+From ``Jenny" (1870, written in 1843), lines 111--153
 
 但丁·加百利·罗塞蒂^[克里斯蒂娜·罗塞蒂的哥哥，见 \@ref(christina-rossetti)]的诗
 
-## Christina Rossetti, ‘In an Artist’s Studio’ {#christina-rossetti}
+## Christina Rossetti, 'In an Artist's Studio' {#christina-rossetti}
 
 克里斯蒂娜·罗塞蒂^[但丁·加百利·罗塞蒂的妹妹，见 \@ref(dante-rossetti)]的诗
 
-## \index{Hardy, Thomas}Thomas Hardy: “The Ruined Maid”
+## \index{Hardy, Thomas}Thomas Hardy: ``The Ruined Maid"
 
 From _Poems of the Past and the Present_ (1902; written 1866)
 

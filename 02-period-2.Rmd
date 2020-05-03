@@ -1,4 +1,4 @@
-# Period 2: London in the Enlightenment (1660–1780)
+# Period 2: London in the Enlightenment (1660--1780)
 
 ## Celia Fiennes: Some Topographical Features of London
 
@@ -6,13 +6,13 @@ From _Through England on a Side Saddle in the Time of William and Mary_ (1888) (
 
 ## \index{Defoe, Daniel}Daniel Defoe: London Surging in Size {#defoe}
 
-From _A Tour Through the Whole Island of Great Britain_ (1724–1726), Vol. 2, Letter 2
+From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Letter 2
 
 选自丹尼尔·笛福《不列颠全岛纪游》
 
 ## THE RESTORATION {-}
 
-## \index{Evelyn, John}John Evelyn: Charles II’s Triumphal Entry into London {#evelyn-diary}
+## \index{Evelyn, John}John Evelyn: Charles II's Triumphal Entry into London {#evelyn-diary}
 
 His Diary on 29 May 1660
 
@@ -30,7 +30,7 @@ His Diary on 6 January 1662
 
 见 \@ref(evelyn-diary)
 
-## \index{Evelyn, John}Evelyn: James II’s Ill-Timed Feast for the Venetian
+## \index{Evelyn, John}Evelyn: James II's Ill-Timed Feast for the Venetian
 
 His Diary on 18 December 1685
 
@@ -44,7 +44,7 @@ His Diary on 3 September 1665 and 14 September 1665
 
 塞缪尔·佩皮斯的日记
 
-## \index{Defoe, Daniel}Daniel Defoe’s Imaginative Reconstruction of the Great Plague
+## \index{Defoe, Daniel}Daniel Defoe's Imaginative Reconstruction of the Great Plague
 
 From _A Journal of the Plague Year_ (1722)
 
@@ -58,7 +58,7 @@ From _Annus Mirabilis: The Year of Wonders, 1666_ (1667)
 
 选自约翰·德莱顿《奇异的年代》
 
-## \index{Pepys, Samuel}Pepys’ Buried Treasures
+## \index{Pepys, Samuel}Pepys' Buried Treasures
 
 His Diary on 4 September 1666
 
@@ -66,7 +66,7 @@ His Diary on 4 September 1666
 
 ## \index{Defoe, Daniel}Defoe: London Before and After the Fire
 
-From _A Tour Through the Whole Island of Great Britain_ (1724–1726), Vol. 2, Letter 2
+From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Letter 2
 
 见 \@ref(defoe)
 
@@ -78,9 +78,9 @@ His Diary on 5 April 1682 and 12 April 1682
 
 见 \@ref(evelyn-diary)
 
-## \index{Ward, Ned}Ned Ward: The Rebuilding of St Paul’s Cathedral {#ward}
+## \index{Ward, Ned}Ned Ward: The Rebuilding of St Paul's Cathedral {#ward}
 
-From _The London Spy_ (1698–1709), Part 5
+From _The London Spy_ (1698--1709), Part 5
 
 内德·沃德，又名爱德华·沃德
 
@@ -92,13 +92,13 @@ From _The Spectator_, No. 69 (19 May 1711)
 
 ## \index{Ward, Ned}Ned Ward: Crowds at the Entrance to the Royal Exchange
 
-From _The London Spy_ (1698–1709), Part 3
+From _The London Spy_ (1698--1709), Part 3
 
 见 \@ref(ward)
 
 ## \index{Defoe, Daniel}Defoe: Westminster Abbey
 
-From _A Tour Through the Whole Island of Great Britain_ (1724–1726), Vol. 2, Letter 2
+From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Letter 2
 
 见 \@ref(defoe)
 
@@ -120,7 +120,7 @@ From _Trivia, or, The Art of Walking the Streets of London_ (1716), Bk 2
 
 见 \@ref(gay)
 
-## Jonathan Swift: “A Description of a City Shower”
+## Jonathan Swift: ``A Description of a City Shower"
 
 From _The Tatler_ (1710), No. 238
 
@@ -140,11 +140,11 @@ A letter of hers in _Memoirs of the Life and Correspondence of Hannah More_, ed.
 
 ## \index{Ward, Ned}Ned Ward: Pork Sellers at Bartholomew Fair
 
-From _The London Spy_ (1698–1709), Part 10
+From _The London Spy_ (1698--1709), Part 10
 
 见 \@ref(ward)
 
-## Benjamin Franklin: “Work, the Curse of the Drinking Classes”
+## Benjamin Franklin: ``Work, the Curse of the Drinking Classes"
 
 From _Autobiography_ (1793), ch. 6
 
@@ -176,7 +176,7 @@ From _The Fortune and Misfortunes of the Famous Moll Flanders_ (1722)
 
 ## Samuel Richardson: An Execution at Tyburn
 
-From _The Complete Letter-Writer: Or, Polite English Secretary_ (8th edition, 1762), pp. 207–9
+From _The Complete Letter-Writer: Or, Polite English Secretary_ (8th edition, 1762), pp. 207--9
 
 塞缪尔·理查逊
 

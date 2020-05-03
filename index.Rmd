@@ -1,13 +1,22 @@
 --- 
-title: "An Anthology of London in Literature, 1558-1914"
-subtitle: "'Flower of Cities All'"
+title: "An Anthology of London in Literature, 1558--1914"
+subtitle: "`Flower of Cities All'"
 author:
   - Geoffrey G. Hiller^[Glen Iris, Australia]
   - Peter L. Groves^[Monash University, Melbourne, Australia]
   - Alan F. Dilnot^[Monash University, Melbourne, Australia]
+keywords:
+  - Urban studies
+  - Elizabeth I
+  - First World War
+  - Pope
+  - Spenser
+  - Wordsworth
+  - Thackeray
+  - Dickens
 date: "2019"
 output: pdf_book
-description: This book is an anthology of extracts of literary writing (in prose, verse and drama) about London and its diverse inhabitants, taken from the accession of Queen Elizabeth I in 1558 to the outbreak of the Great War in 1914. The 143 extracts, divided into four periods (1558-1659, 1660-1780, 1781-1870 and 1871-1914), range from about 250 words to 2,500. Each of the four periods has an introduction that deals with relevant social, geographical and historical developments, and each extract is introduced with a contextualizing headnote and furnished with explanatory footnotes. In addition, the general introduction to the anthology addresses some of the literary questions that arise in writing about London, and the book ends with many suggestions for further reading. It should appeal not only to the general reader interested in London and its representation, but also to students of literature in courses about ‘reading the city’.
+subject: This book is an anthology of extracts of literary writing (in prose, verse and drama) about London and its diverse inhabitants, taken from the accession of Queen Elizabeth I in 1558 to the outbreak of the Great War in 1914.
 documentclass: ctexbook
 link-citations: yes
 colorlinks: yes
@@ -21,17 +30,13 @@ biblio-style: apalike
 links-as-notes: true
 ---
 
-# About {#about}
+# About
 
-This is a document in **Markdown** to introduce the textbook [_An Anthology of London in Literature, 1558-1914_](https://link.springer.com/book/10.1007/978-3-030-05609-4).
+Self-learning materials in **Markdown** with some **LaTeX** to research the textbook [_An Anthology of London in Literature, 1558--1914_](https://link.springer.com/book/10.1007/978-3-030-05609-4).
 
 ## Introduction {-}
 
-This book is an anthology of extracts of literary writing (in prose, verse and drama) about London and its diverse inhabitants, taken from the accession of Queen Elizabeth I in 1558 to the outbreak of the Great War in 1914. The 143 extracts, divided into four periods (1558-1659, 1660-1780, 1781-1870 and 1871-1914), range from about 250 words to 2,500. Each of the four periods has an introduction that deals with relevant social, geographical and historical developments, and each extract is introduced with a contextualizing headnote and furnished with explanatory footnotes. In addition, the general introduction to the anthology addresses some of the literary questions that arise in writing about London, and the book ends with many suggestions for further reading. It should appeal not only to the general reader interested in London and its representation, but also to students of literature in courses about ‘reading the city’. 
-
-## Keywords {-}
-
-`Urban studies`, `Elizabeth I`, `First World War`, `Pope`, `Spenser`, `Wordsworth`, `Thackeray`, `Dickens`
+This book is an anthology of extracts of literary writing (in prose, verse and drama) about London and its diverse inhabitants, taken from the accession of Queen Elizabeth I in 1558 to the outbreak of the Great War in 1914. The 143 extracts, divided into four periods (1558--1659, 1660--1780, 1781--1870 and 1871--1914), range from about 250 words to 2,500. Each of the four periods has an introduction that deals with relevant social, geographical and historical developments, and each extract is introduced with a contextualizing headnote and furnished with explanatory footnotes. In addition, the general introduction to the anthology addresses some of the literary questions that arise in writing about London, and the book ends with many suggestions for further reading. It should appeal not only to the general reader interested in London and its representation, but also to students of literature in courses about `reading the city'.
 
 ## Editors and affiliations {-}
 

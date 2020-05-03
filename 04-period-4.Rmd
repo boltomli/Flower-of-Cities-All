@@ -1,10 +1,10 @@
-# Period 4: London—Capital of Empire, 1871–1914
+# Period 4: London---Capital of Empire, 1871--1914
 
 ## AN OPENING MISCELLANY {-}
 
-## \index{Hardy, Thomas}Thomas Hardy, “Snow in the Suburbs”
+## \index{Hardy, Thomas}Thomas Hardy, ``Snow in the Suburbs"
 
-From _Human Shows_ (1925) (written 1878–1881)
+From _Human Shows_ (1925) (written 1878--1881)
 
 选自托马斯·哈代《人间万象》
 
@@ -14,7 +14,7 @@ From _The Princess Casamassima_ (1886), Bk 1, ch. 5
 
 选自亨利·詹姆斯《卡萨玛西玛公主》
 
-## Lionel Johnson: “By the Statue of King Charles at Charing Cross”
+## Lionel Johnson: ``By the Statue of King Charles at Charing Cross"
 
 From _Poems_ (1895)
 
@@ -34,11 +34,11 @@ From _Highways and Byways of London_ (1902), ch. 2
 
 ## \index{James, Henry}Henry James: The Appeal of the Great City
 
-From “London” 6, in _The Century Illustrated Monthly Magazine_ 57 (November–April 1888–1889)
+From ``London" 6, in _The Century Illustrated Monthly Magazine_ 57 (November--April 1888--1889)
 
 亨利·詹姆斯
 
-## \index{Wilde, Oscar}Oscar Wilde, “Impression du Matin”
+## \index{Wilde, Oscar}Oscar Wilde, ``Impression du Matin"
 
 From _Poems_ (1881)
 
@@ -50,7 +50,7 @@ From _Love and Mr Lewisham_ (1900), ch. 22
 
 选自赫伯特·乔治·威尔斯《爱情和鲁雅轩》
 
-## Robert Bridges, “London Snow”
+## Robert Bridges, ``London Snow"
 
 From _Poems_. Third Series (1880)
 
@@ -58,7 +58,7 @@ From _Poems_. Third Series (1880)
 
 ## THE AESTHETIC MOVEMENT {-}
 
-## \index{Wilde, Oscar}Oscar Wilde: “London Models”
+## \index{Wilde, Oscar}Oscar Wilde: ``London Models"
 
 From _The English Illustrated Magazine_ 6 (January 1889)
 
@@ -84,7 +84,7 @@ From _New Grub Street_ (1891), Part 1, ch. 4
 
 ## William S. Gilbert: The House of Peers
 
-“When Britain really ruled the waves,” in _Songs of a Savoyard_ (1890)
+``When Britain really ruled the waves," in _Songs of a Savoyard_ (1890)
 
 威廉·S·吉尔伯特
 
@@ -106,9 +106,9 @@ From _Teresa of Watling Street_ (1904), ch. 1
 
 阿诺德·贝内特
 
-## C. W. Murphy: “I Live in Trafalgar Square”
+## C. W. Murphy: ``I Live in Trafalgar Square"
 
-From “I live in Trafalgar Square” (1902)
+From ``I live in Trafalgar Square" (1902)
 
 ## THE THAMES {-}
 
@@ -138,7 +138,7 @@ From _At His Gates_ (1872), ch. 1
 
 玛格丽特·奥利芬特
 
-## \index{Gissing, George}George Gissing: The Women’s Movement
+## \index{Gissing, George}George Gissing: The Women's Movement
 
 From _The Odd Women_ (1893), ch. 13
 
@@ -186,7 +186,7 @@ From _The White Peacock_ (1911), Part 3, ch. 5
 
 选自D·H·劳伦斯《白孔雀》
 
-## Amy Levy: “Ballade of an Omnibus”
+## Amy Levy: ``Ballade of an Omnibus"
 
 From _A London Plane-Tree and Other Verse_ (1889)
 
@@ -200,7 +200,7 @@ From _A Child of the Jago_ (1896), ch. 1
 
 ## Baroness Emmuska Orczy: Death on the Tube
 
-From ‘The Mysterious Death on the Underground Railway’ (1901)
+From 'The Mysterious Death on the Underground Railway' (1901)
 
 选自奥希兹女男爵《地铁神秘命案》
 
