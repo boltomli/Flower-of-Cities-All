@@ -168,6 +168,38 @@ From _The Wonderful Year_ (1603)
 
 _Orchestra: A Poem of Dancing_ (1622) (written c. 1594)
 
+|    Her brighter dazzling beams of majesty
+|    Were laid aside, for she vouchsaf'd awhile
+|    With gracious, cheerful, and familiar eye
+|    Upon the revels of her court to smile,
+|    For so Time's journeys she doth oft beguile,
+|        Like sight no mortal eye might elsewhere see
+|        So full of state, art, and variety.
+|
+|    For of her barons brave and ladies fair,
+|    Who had they been elsewhere most fair had been,
+|    Many an incomparable lovely pair
+|    With hand in hand were interlinkèd seen,
+|    Making fair honour to their sov'reign Queen;
+|        Forward they pac'd, and did their pace apply
+|        To a most sweet and solemn melody.
+|
+|    So subtle and so curious^[**curious**: exquisite.] was the measure,
+|    With such unlook'd-for change in every strain,
+|    As that Penelope, rapt with sweet pleasure,
+|    Ween'd^[**Ween'd**: believed.] she beheld the true proportion plain
+|    Of her own web, weav'd and unweav'd again,^[**her own web ... again**: When Penelope, faithful to her absent husband Odysseus, is importuned by many suitors, she refuses to re-marry until she has woven a shroud for her dead father-in-law. She weaves it during the day but unravels her work every night so that her task is never completed.]
+|        But that her art was somewhat less, she thought,
+|        And on a mere ignoble subject wrought.
+
+|    For here, like to the silkworm's industry,
+|    Beauty itself out of itself did weave
+|    So rare a work and of such subtlety
+|    As did all eyes entangle and deceive,
+|    And in all minds a strange impression leave:
+|        In this sweet labyrinth did Cupid stray,
+|        And never had the power to pass away.
+
 ## Edmund Spenser: Another View of Love at Court
 
 From _Colin Clout's Come Home Again_ (1595) (written 1590–1591), 771–94 [@Spenser1966]
@@ -243,6 +275,31 @@ From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 “An Horatian Ode upon Cromwell's Return from Ireland,” in _Miscellaneous Poems_ (1681) (written 1650).
 
 安德鲁·马维尔的诗
+
+|    [...] That thence^[**thence**: from Carisbrooke Castle on the Isle of Wight, where Charles had been imprisoned.] the royal actor borne
+|    The tragic scaffold^[**scaffold**: (1) a platform for executions (in this case erected for Charles outside the Banqueting House in Whitehall Palace, a fine Palladian building with its Rubens ceiling, commissioned by Charles, celebrating his father's rule); (2) stage.] might adorn,
+|        While round the armèd bands
+|        Did clap their bloody hands.^[**Did clap their ... hands**: not in applause, but in an attempt to drown out his speech from the scaffold.]
+|
+|    He nothing common did or mean
+|    Upon that memorable scene:
+|        But with his keener eye
+|        The axe's edge did try;
+|
+|    Nor called the gods with vulgar spite
+|    To vindicate his helpless right,
+|        But bowed his comely head
+|        Down as upon a bed.
+|
+|    This was that memorable hour
+|    Which first assur'd the forcèd^[**forcèd**: gained and maintained by force.] power:
+|        So when they did design
+|        The Capitol's first line,
+|
+|    A Bleeding Head, where they begun,
+|    Did fright the architects to run;
+|        And yet in that the State
+|        Foresaw its happy fate!^[**The Capitol's ... fate**: the Capitol was the great temple of Jupiter in Rome, so called because digging its foundations unearthed a human head (Latin caput), which was interpreted as a good omen for Rome's destiny.]
 
 ## \index{Evelyn, John}John Evelyn: “The Funeral Sermon of Preaching” {#evelyn}
 
