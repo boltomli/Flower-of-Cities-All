@@ -166,7 +166,7 @@ From _Sketches by Boz_, 1836–1837
 
 选自查尔斯·狄更斯《博兹特写集》
 
-## Charles Lamb: “The Old Benchers of the Inner Temple”
+## Charles Lamb: “The Old Benchers of the Inner Temple” {#lamb}
 
 From _Essays of Elia_, 2nd Series, 1833
 

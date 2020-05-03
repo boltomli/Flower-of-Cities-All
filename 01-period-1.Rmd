@@ -76,6 +76,21 @@ From “London Bridge,” in _London and the Country Carbonadoed and Quartered_ 
 
 From _Westward Ho_ (1607), Act 2, Sc. 1
 
+\begin{drama}
+\speaker{Honeysuckle}[...W]hat news flutters abroad? Do jackdaws dung the top of Paul’s steeple still?\footnote{\textbf{Paul’s steeple}: old St Paul’s Cathedral lost its steeple to lightning in 1561.}
+\speaker{Justiniano}The more is the pity if any daws do come into the temple, as I fear they do.
+\speaker{Honeysuckle}They say Charing Cross is fallen down since I went to Rochelle\footnote{\textbf{Rochelle}: La Rochelle, a prosperous Huguenot (Protestant) city in SW France.};
+but that’s no such wonder: ’twas old, and stood awry, as most part of the
+world can tell. And though it lack under-propping, yet, like great fellows at a
+wrestling, when their heels are once flying up no man will save ’em: down they
+fall, and there let them lie, though they were bigger than the Guard. Charing
+Cross was old, and old things must shrink as well as new Northern cloth.\footnote{\textbf{new \ldots{} cloth}: Cheating tailors stretched their \textbf{cloth} tightly on its frame so that it shrank when it became wet.}
+\speaker{Justiniano}Your worship is in the right way verily: they must so, but a number
+of better things between Westminster and TempleBar,\footnote{\textbf{Westminster \ldots{} Temple Bar}: the area between \textbf{Westminster} Hall and the Inns of Court [\ref{lamb}, n.93] near \textbf{Temple Bar} frequented by those of the legal profession.} both of a worshipful
+and honourable erection, are fallen to decay and have suffered putrefaction
+since Charing fell that were not of half so long-standing as the poor wrynecked monument.
+\end{drama}
+
 约翰·韦伯斯特
 
 ## John Donne: The Lively Streets of London
