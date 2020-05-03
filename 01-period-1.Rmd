@@ -252,6 +252,32 @@ From _Bartholomew Fair_, Act 3, Sc. 5 (1640) (perf. 1614)
 
 选自本·琼生《巴托罗缪市集》
 
+\begin{drama*}
+\speaker{Cokes}Sister, I am an ass, I cannot keep my purse. \direct{He shows it again.} On, on; I pray thee, friend.\\
+\speaker{Winwife}Will you see sport? Look, there's a fellow gathers up to him, mark.\\
+\direct{Edgeworth gets up to him and tickles him in the ear with a straw twice to draw his hand out of his pocket.}
+\speaker{Quarlous}Good, i'faith! O, he has lighted on the wrong pocket.\\
+\speaker{Winwife}He has it, 'fore God, he is a brave fellow; pity he should be detected.\\
+\speaker{Nightingale}But O, you vile nation of cutpurses all,\\
+Relent and repent, and amend and be sound,\\
+And know that you ought not, by honest men's fall,\\
+Advance your own fortunes, to die above ground,\\
+\hspace{\leftmargini}And though you go gay,\\
+\hspace{\leftmargini}In silks as you may,\\
+It is not the high way to heaven (as they say).\\
+Repent then, repent you, for better, for worse:\\
+And kiss not the gallows for cutting a purse.\\
+Youth, youth, thou hadst better been starved by thy nurse,\\
+Than live to be hanged for cutting a purse.\\
+\speaker{All}An excellent ballad! An excellent ballad!\\
+\speaker{Edgeworth}Friend, let me ha' the first, let me ha' the first, I pray you.\\
+\speaker{Cokes}Pardon me, sir. First come, first served; and I'll buy the whole bundle too.\\
+\speaker{Winwife}That conveyance was better than all, did you see't? He has given the purse to the ballad singer.\\
+\speaker{Quarlous}Has he?\\
+\speaker{Edgeworth}Sir, I cry you mercy; I'll not hinder the poor man's profit: I pray you, mistake me not.\\
+\speaker{Cokes}Sir, I take you for an honest gentleman, if that be mistaking. I met you today afore: ha! Hum'h! O God! my purse is gone, my purse, my purse, etc.\\
+\end{drama*}
+
 ## \index{Earle, John}John Earle: A Prison
 
 From “A Prison,” in _Micro-cosmography, or, A Piece of the World Discovered_. 5th ed. (1629), No. [12]
