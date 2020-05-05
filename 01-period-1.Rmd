@@ -106,8 +106,8 @@ Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593--1594)
 |    Here are God's conduits, grave divines^[**God's ... divines**: theologians, who convey (like a conduit) knowledge of God to men.]; and here
 |    Nature's secretary, the Philosopher^[**Nature's secretary, the philosopher**: two epithets commonly applied to Aristotle.];
 |    And wily statesmen, which teach how to tie
-|    The sinews of a city's mystic body^[38];
-|    Here gath'ring^[39] chroniclers, and by them stand
+|    The sinews of a city's mystic body^[**wily ... body**: Donne is referring to writers like Niccolò Machiavelli (1469--1527) and Jean Bodin (1530--1596), wily politicians who wrote about statecraft and the maintenance of civil cohesion in the mystic (invisible) `body politic' of the state.];
+|    Here gath'ring^[**gath'ring**: collecting facts.] chroniclers, and by them stand
 |    Giddy fantastic poets of each land.
 |    Shall I leave all this constant company,
 |    And follow headlong wild uncertain thee?
@@ -116,7 +116,7 @@ Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593--1594)
 |    Thou wilt not leave me in the middle street,
 |    Though some more spruce companion thou dost meet;
 |    Not though a captain do come in thy way,
-|    Bright parcel gilt,^[40] with forty dead men's pay;
+|    Bright parcel gilt,^[**parcel gilt**: partly gilded.] with forty dead men's pay^[**dead men's pay**: pay due to dead soldiers, which was fraudulently taken by their officers.];
 |    Not though a brisk, perfum'd, pert courtier
 |    Deign with a nod thy courtesy to answer;
 |    Nor come a velvet Justice with a long
@@ -134,30 +134,30 @@ Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593--1594)
 |    That wilt consort none until thou have known
 |    What lands he hath in hope, or of his own,
 |    As though all thy companions should make thee
-|    Jointures,^[41] and marry thy dear company.
+|    Jointures,^[**jointures**: estates held jointly by spouses.] and marry thy dear company.
 |    Why shouldst thou (that dost not only approve,
-|    But in rank^[42] itchy lust, desire and love
+|    But in rank^[**rank**: (1) rampant; (2) loathsome.] itchy lust, desire and love
 |    The nakedness and bareness to enjoy,
-|    Of thy plump muddy^[43] whore, prostitute boy).
+|    Of thy plump muddy^[**muddy**: (1) sinful, corrupt; (2) fleshy, carnal.] whore, prostitute boy).
 |    Hate virtue, though she be naked and bare?
 |    At birth and death our bodies naked are;
 |    And till our souls be unapparellèd
 |    Of bodies, they from bliss are banishèd.
 |    Man's first blest state was naked; when by sin
-|    He lost that, he was cloth'd but in beasts' skin^[44] ;
+|    He lost that, he was cloth'd but in beasts' skin^[See Genesis 2:25; 3:21.] ;
 |    And in this coarse attire which I now wear,
 |    With God, and with the muses I confer.
 |    But since thou, like a contrite penitent,
-|    Charitably warn'd of thy sins, dost repent^[45]
+|    Charitably warn'd of thy sins, dost repent^[**Charitably ... repent**: this line is unmetrical, one of those that Ben Jonson thought Donne ``deserved hanging" for.]
 |    These vanities and giddinesses, lo,
 |    I shut my chamber door, and come, let's go!
 |    But sooner may a cheap whore, who hath been
 |    Worn by as many several men in sin
-|    As are black feathers, or musk-colour hose,^[46]
+|    As are black feathers, or musk-colour hose,^[**black ... hose**: These were fashionable; **musk-colour**: reddish brown.]
 |    Name her child's right true father, 'mongst all those;
 |    Sooner may one guess who shall bear away
-|    Th' Infant^[47] of London, heir t' an India^[48];
-|    And sooner may a gulling weather spy^[49]
+|    Th' Infant^[**Infant**: playing on the Spanish Infanta, the prince(ss) of Spain and its heir(ess).] of London, heir t' an India^[**to an India**: to vast wealth (India was a source of fabled riches).];
+|    And sooner may a gulling weather spy^[**gulling weather spy**: deceitful astrologer who purports to foretell the weather.]
 |    By drawing forth heaven's scheme [_a horoscope_] tell certainly
 |    What fashion'd hats, or ruffs, or suits next year
 |    Our subtle-witted antic youths will wear,
@@ -166,7 +166,7 @@ Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593--1594)
 |    But how shall I be pardon'd my offence,
 |    That thus have sinn'd against my conscience?
 |    Now we are in the street; he first of all,
-|    Improvidently proud, creeps to the wall,^[50]
+|    Improvidently proud, creeps to the wall,^[**to the wall**: to the side of the pavement furthest from the muddy road. The position is improvidently proud because he gains in status what he loses in liberty.]
 |    And so imprison'd and hemm'd in by me,
 |    Sells for a little state [_status_] his liberty;
 |    Yet though he cannot skip forth now to greet
@@ -175,15 +175,15 @@ Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593--1594)
 |    And grins, smacks, shrugs, and such an itch endures
 |    As 'prentices, or schoolboys, which do know
 |    Of some gay sport abroad, yet dare not go.
-|    And as fiddlers stop lowest^[51] at highest sound,
-|    So to the most brave^[52] stoops he nigh'st the ground.
+|    And as fiddlers stop lowest^[**lowest**: furthest from the neck and nearest the bottom of the viol.] at highest sound,
+|    So to the most brave^[**brave**: finely dressed.] stoops he nigh'st the ground.
 |    But to a grave man he doth move no more
 |    Than the wise politic horse would heretofore,
 |    Or thou, O elephant or ape, wilt do
-|    When any names the King of Spain to you.^[53]
-|    Now leaps he upright, jogs me, and cries, ``do you see
-|    Yonder well-favour'd youth"? ``Which"? ``Oh, 'tis he
-|    That dances so divinely"; ``Oh," said I,
+|    When any names the King of Spain to you.^[**wise politic horse ... to you**: These fair-ground animals were trained to respond to keywords in audience requests, and to show apparent loyalty to Elizabeth and disapproval of the **King of Spain**.]
+|    Now leaps he upright, jogs me, and cries, “do you see
+|    Yonder well-favour'd youth”? ``Which"? “Oh, 'tis he
+|    That dances so divinely”; ``Oh," said I,
 |    ``Stand still, must you dance here for company"?
 |    He droop'd, we went, till one which did excel
 |    Th'Indians in drinking [_inhaling_] his tobacco well
@@ -195,21 +195,21 @@ Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593--1594)
 |    He follows, overtakes, goes on the way,
 |    Saying, ``Him whom I last left, all repute [_judge_]
 |    For his device [_expertise_] in handsoming [_adorning_] a suit,
-|    To judge of lace, pink, panes, print, cut,^[54] and pleat,
+|    To judge of lace, pink, panes, print, cut,^[**pink**: decorative eyelet; **panes**: ornamental strips; **print**: crimping of pleats as in a ruff; **cut**: slash.] and pleat,
 |    Of all the court to have the best conceit [_judgement_]."
-|    ``Our dull comedians want him^[55] : let him go;
+|    ``Our dull comedians want him^[**Our dull comedians want him**: i.e. they need his gaudy clothes to enhance their wardrobe of costumes.] : let him go;
 |    But oh, God strengthen thee, why stop'st thou so"?
-|    ``Why? He hath travell'd," ``Long"? ``No, but to me
+|    “Why? He hath travell'd,” ``Long"? “No, but to me
 |    Which understand none, he doth seem to be
-|    Perfect French, and Italian." I replied,
-|    ``So is the pox."^[56] He answer'd not, but spied
+|    Perfect French, and Italian.” I replied,
+|    ``So is the pox."^[**the pox**: syphilis, blamed as a foreign ailment.] He answer'd not, but spied
 |    More men of sort, of parts, and qualities.
 |    At last his love he in a window spies,
-|    And like light dew exhal'd,^[57] he flings from me,
+|    And like light dew exhal'd,^[**like light dew exhaled**: he is drawn to his mistress as **dew** is drawn up to the sun.] he flings from me,
 |    Violently ravish'd to his lechery.
-|    Many were there, he could command^[58] no more;
+|    Many were there, he could command^[**command**: be in sole possession of her.] no more;
 |    He quarrell'd, fought, bled; and turn'd out of door,
-|    Directly came to me, hanging the head,^[59]
+|    Directly came to me, hanging the head,^[**hanging the head**: also, detumescent.]
 |    And constantly a while must keep his bed.
 
 ## William Habington: In Praise of London in the Long Vacation
