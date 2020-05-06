@@ -498,6 +498,34 @@ From _London: A Poem in Imitation of the Third Satire of Juvenal_ (1738)
 
 塞缪尔·约翰逊
 
+\settowidth{\versewidth}{By numbers here from shame or censure free,}
+\begin{verse}[\versewidth]
+By numbers here from shame or censure free,\\
+All crimes are safe but hated poverty.\\
+This, only this, the rigid law pursues;\\
+This, only this, provokes the snarling Muse.\\
+The sober trader at a tatter'd cloak\footnote{\textbf{at a tatter'd cloak}: i.e. on seeing a sign of poverty.}\\
+Wakes from his dream, and labours for a joke;\\
+With brisker air the silken courtiers gaze,\\
+And turn the varied taunt a thousand ways.\\
+Of all the griefs that harass the distress'd,\\
+Sure, the most bitter is a scornful jest;\\
+Fate never wounds more deep the gen'rous heart,\\
+Than when a blockhead's insult points the dart.\\!
+Has Heaven reserv'd, in pity to the poor,\\
+No pathless waste, or undiscover'd shore?\\
+No secret island in the boundless main?\\
+No peaceful desert yet unclaim'd by Spain?\\
+Quick let us rise, the happy seats explore,\\
+And bear oppression's insolence no more.\\
+This mournful truth is ev'rywhere confess'd,\\
+\textsc{Slow rises worth, by poverty depress'd.}\\
+But here more slow, where all are slaves to gold,\\
+Where looks are merchandise, and smiles are sold;\\
+Where won by bribes, by flatteries implor'd,\\
+The groom retails the favours of his lord.
+\end{verse}
+
 ## Thomas Holcoft: The Gordon Riots
 
 From _A Plain and Succinct Narrative of the Late Riots and Disturbances_ (1780)
