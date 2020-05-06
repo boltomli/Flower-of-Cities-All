@@ -338,11 +338,45 @@ From _Trivia, or, The Art of Walking the Streets of London_ (1716), Bk 2
 
 选自约翰·盖伊《琐事》
 
+|    Where fam'd Saint Giles's ancient limits spread,
+|    An inrail'd^[**inrailed**: enclosed by railings.] column rears its lofty head.
+|    Here to seven streets, seven dials [_clocks_] count the day,
+|    And from each other catch the circling ray.
+|    Here oft the peasant, with enquiring face,
+|    Bewilder'd, trudges on from place to place;
+|    He dwells on every sign with stupid [_stupefied_] gaze,
+|    Enters the narrow alley's doubtful maze,
+|    Tries every winding court and street in vain,
+|    And doubles o'er his weary steps again.
+|    Thus hardy Theseus,^[**Theseus**: mythical founder of Athens. He entered the baffling maze or `Labyrinth' of Crete to slay its occupant, the Minotaur, a fearsome bull-man monster to whom Athenian virgins were being sacrificed.] with intrepid feet,
+|    Travers'd the dang'rous Labyrinth of Crete;
+|    But still the wand'ring passes forced his stay,^[**wandering passes forced his stay**: winding passages brought him to a halt.]
+|    Till Ariadne's clue^[**clue**: or `clew'; a ball of yarn or thread. The Cretan princess Ariadne gave Theseus a ball of thread with which (by unravelling it) he traced his way into (and thus safely out of) the Labyrinth. This story is the origin of the modern sense of clue as ``guide, pointer, hint.""] unwinds the way.
+|    But do not thou, like that bold chief, confide [_trust_]
+|    Thy vent'rous footsteps to a female guide;
+|    She'll lead thee, with delusive smiles along,
+|    Dive in thy fob,^[**fob**: ``A small pocket formerly made in the waistband of the breeches and used for carrying a watch, money, or other valuables" (_OED_).] and drop thee in the throng.
+
 ## \index{Gay, John}Gay on Pall Mall
 
 From _Trivia, or, The Art of Walking the Streets of London_ (1716), Bk 2
 
 见 \@ref(gay)
+
+|    O bear me to the paths of fair Pell Mell,
+|    Safe are thy pavements, grateful [_pleasing_] is thy smell!
+|    At distance, rolls along the gilded coach,
+|    Nor sturdy carmen [_carters_] on thy walks encroach;
+|    No lets [_hindrances_] would bar thy ways, were chairs^[**chairs**: sedan chairs, enclosed litters carried on horizontal poles by two bearers; they were either private (a lady could be carried about the crowded streets in privacy and cleanliness by her servants) or for public hire. As status-symbols they were **supports of ... Pride**, having right of way over mere pedestrians.] denied ---
+|    The soft supports of Laziness and Pride;
+|    Shops breath perfumes, through sashes ribbons glow,
+|    The mutual arms of ladies and the beau.
+|    Yet still even here, when rains the passage hide,
+|    Oft the loose stone spirts up a muddy tide
+|    Beneath thy careless foot; and from on high,
+|    Where masons mount the ladder, fragments fly;
+|    Mortar and crumbled lime in showers descend,
+|    And o'er thy head destructive tiles impend [_hang_].
 
 ## Jonathan Swift: ``A Description of a City Shower"
 
@@ -381,6 +415,26 @@ From _Autobiography_ (1793), ch. 6
 From _Trivia, or, The Art of Walking the Streets of London_ (1716), Bk 3
 
 见 \@ref(gay)
+
+|    Though you through cleanlier alleys wind by day,
+|    To shun the hurries of the public way,
+|    Yet ne'er to those dark paths by night retire;
+|    Mind only safety, and condemn the mire.
+|    Then no impervious courts thy haste detain,
+|    Nor sneering ale-wives bid thee turn again.
+|
+|    Where Lincoln's Inn, wide space,^[**Lincoln's Inn, wide space**: **Lincoln's Inn** Fields was for centuries London's largest square. While there were fashionable houses beyond its surrounding railings, robbers and petty criminals made the open space unsafe.] is rail'd around
+|    Cross not with vent'rous step; there oft is found
+|    The lurking thief, who while the daylight shone
+|    Made the walls echo with his begging tone;
+|    That crutch which late compassion mov'd shall wound
+|    Thy bleeding head and fell thee to the ground.
+|    Though thou art tempted by the link man's call,^[**link man's call**: men with torches offered to light people's way in dark areas for a fee.]
+|    Yet trust him not along the lonely wall;
+|    In the mid-way he'll quench the flaming brand,
+|    And share the booty with the pilf'ring band.
+|    Still keep the public streets, where oily rays
+|    Shot from the crystal lamp o'erspread the ways.
 
 ## James Smith: Sex-Workers in the Strand
 
