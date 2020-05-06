@@ -58,27 +58,147 @@ From _Annus Mirabilis: The Year of Wonders, 1666_ (1667)
 
 选自约翰·德莱顿《奇异的年代》
 
+\setlength{\beforepoemtitleskip}{0.3ex}
 \setlength{\afterpoemtitleskip}{0.2ex}
-
 \settowidth{\versewidth}{Such was the rise of this prodigious fire,}
-\poemtitle{215}
+
+\poemtitle*{215\\*}
 \begin{verse}[\versewidth]
 \begin{altverse}
-Such was the rise of this prodigious fire,\\
-Which in mean buildings first obscurely bred,\\
-From thence did soon to open streets aspire,\\
+Such was the rise of this prodigious fire,\\*
+Which in mean buildings first obscurely bred,\\*
+From thence did soon to open streets aspire,\\*
 And straight to palaces and temples spread.
 \end{altverse}
 \end{verse}
 
-\settowidth{\versewidth}{The diligence of trades and noiseful gain,}
-\poemtitle{216}
+\poemtitle*{216\\*}
 \begin{verse}[\versewidth]
 \begin{altverse}
-The diligence of trades and noiseful gain,\\
-And luxury, more late,\footnote{\textbf{more late}: later to bed than honest tradesmen.} asleep were laid;\\
-All was the night's, and in her silent reign,\\
+The diligence of trades and noiseful gain,\\*
+And luxury, more late,\footnote{\textbf{more late}: later to bed than honest tradesmen.} asleep were laid;\\*
+All was the night's, and in her silent reign,\\*
 No sound the rest of nature did invade.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{217\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+In this deep quiet, from what source unknown,\\*
+Those seeds of fire their fatal birth disclose;\\*
+And first, few scattering sparks about were blown,\\*
+Big\footnote{\textbf{Big}: pregnant.} with the flames that to our ruin rose.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{218\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Then, in some close-pent room it crept along,\\*
+And smouldering as it went, in silence fed;\\*
+Till th'infant monster, with devouring strong,\\*
+Walked boldly upright with exalted head.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{219\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Now, like some rich or mighty murderer,\\*
+Too great for prison, which he breaks with gold;\\*
+Who fresher for new mischiefs does appear,\\*
+And dares the world to tax him with the old.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{220\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+So 'scapes th'insulting\footnote{\textbf{insulting}: (1) leaping friskily; (2) attacking.} fire his narrow gaol,\\*
+And makes small outlets into open air;\\*
+There the fierce winds his open force assail,\\*
+And beat him downward to his first repair.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{221\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+The winds, like crafty courtesans, withheld\\*
+His flames from burning, but to blow them more;\\*
+And, every fresh attempt, he is repell'd\\*
+With faint denials, weaker than before.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{222\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+And now, no longer letted {[}\emph{hindered}{]} of his prey,\\*
+He leaps up at it with enrag'd desire;\\*
+O’erlooks the neighbours with a wide survey,\\*
+And nods at every house his threatening fire.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{223\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+The ghosts of traitors from the Bridge\footnote{\textbf{The ghosts \ldots{} Bridge}: The heads of traitors were displayed on spikes on London \textbf{Bridge}.} descend,\\*
+With bold fanatic spectres to rejoice;\\*
+About the fire into a dance they bend,\\*
+And sing their Sabbath\footnote{\textbf{Sabbath}: (1) Sunday, when the fire broke out, just after midnight; (2) ``A midnight meeting of demons, sorcerers and witches, presided over by the Devil" (\emph{OED}).} notes with feeble voice {[}\ldots{}{]}
+\end{altverse}
+\end{verse}
+
+\poemtitle*{255\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Those who have homes, when home they do repair\\*
+To a last lodging call their wandering friends.\\*
+Their short uneasy sleeps are broke with care,\\*
+To look how near their own destruction tends.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{256\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Those who have none sit round where once it was,\\*
+And with full eyes each wonted room require;\\*
+Haunting the yet warm ashes of the place,\\*
+As murder'd men walk where they did expire.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{257\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Some stir up coals and watch the Vestal\footnote{\textbf{Vestal}: Vesta was the ancient Roman goddess of the hearth.} fire,\\*
+Others in vain from sight of ruin run;\\*
+And while through burning labyrinths they retire,\\*
+With loathing eyes repeat what they would shun.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{258\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+The most, in fields, like herded beasts lie down;\\*
+To dews obnoxious\footnote{\textbf{To dews obnoxious}: exposed to {[}harmful{]} damp.} on the grassy floor;\\*
+And while their babes in sleep their sorrows drown,\\*
+Sad parents watch the remnants of their store.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{259\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Now, like some rich or mighty murderer,\\*
+Too great for prison, which he breaks with gold;\\*
+Who fresher for new mischiefs does appear,\\*
+And dares the world to tax him with the old.
 \end{altverse}
 \end{verse}
 
