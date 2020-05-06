@@ -137,7 +137,7 @@ With faint denials, weaker than before.
 \begin{altverse}
 And now, no longer letted {[}\emph{hindered}{]} of his prey,\\*
 He leaps up at it with enrag'd desire;\\*
-O’erlooks the neighbours with a wide survey,\\*
+O'erlooks the neighbours with a wide survey,\\*
 And nods at every house his threatening fire.
 \end{altverse}
 \end{verse}
@@ -199,6 +199,86 @@ Now, like some rich or mighty murderer,\\*
 Too great for prison, which he breaks with gold;\\*
 Who fresher for new mischiefs does appear,\\*
 And dares the world to tax him with the old.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{275\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Nor could thy fabric, Paul's, defend thee long,\\*
+Though thou wert sacred to thy Maker's praise;\\*
+Though made immortal by a poet's song\footnote{\textbf{Though made \ldots{} song}: Referring to Edmund Waller's poem ``Upon His Majesty's Repairing of Paul's" (1645).};\\*
+And poets' songs the Theban walls could raise.\footnote{\textbf{And poets' songs \ldots{} raise}: Referring to the harpist Amphion in Greek mythology, whose music drew stones together to build the walls of Thebes." (1645).}
+\end{altverse}
+\end{verse}
+
+\poemtitle*{276\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+The daring flames peep'd in and saw from far,\\*
+The awful beauties of the sacred choir;\\*
+But, since it was profan'd by Civil War,\footnote{\textbf{profaned by Civil War}: Cromwell used the nave as cavalry barracks; the iconoclastic Parliamentarians severely damaged effigies, woodwork, and windows.}\\*
+Heaven thought it fit to have it purg'd by fire.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{277\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Now down the narrow streets it swiftly came,\\*
+And widely opening, did on both sides prey.\\*
+This benefit we sadly owe the flame,\\*
+If only ruin must enlarge our way.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{278\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+And now four days the sun had seen our woes,\\*
+Four nights the moon beheld th'incessant fire;\\*
+It seemed as if the stars more sickly rose,\\*
+And farther from the feverish north retire.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{279\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+In th'émpyrean Heav'n (the bless'd abode)\\*
+The Thrones and the Dominions\footnote{\textbf{Thrones and Dominions}: two of the nine orders of angels.} prostrate lie,\\*
+Not daring to behold their angry God;\\*
+And an hush'd silence damps the tuneful sky.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{280\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+At length th'Almighty cast a pitying eye,\\*
+And mercy softly touch'd his melting breast;\\*
+He saw the town's one half in rubbish lie,\\*
+And eager flames give on to storm the rest.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{281\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+An hollow crystal pyramid he takes,\\*
+In firmamental waters dipp'd above;\\*
+Of it a broad extinguisher he makes,\\*
+And hoods the flames that to their quarry strove.
+\end{altverse}
+\end{verse}
+
+\poemtitle*{282\\*}
+\begin{verse}[\versewidth]
+\begin{altverse}
+The vanquish'd fires withdraw from every place,\\*
+Or full with feeding, sink into a sleep;\\*
+Each household Genius\footnote{\textbf{Genius}: tutelary deity.} shows again his face,\\*
+And from the hearths the little Lares\footnote{\textbf{Lares}: gods of the household in Roman mythology.} creep.
 \end{altverse}
 \end{verse}
 
