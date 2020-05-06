@@ -1,5 +1,16 @@
 \usepackage{booktabs}
+
 \usepackage{makeidx}
 \makeindex
+
 \usepackage{dramatist}
+
+\let\orignewcommand\newcommand
+\let\newcommand\providecommand
+\RequirePackage{verse}
+\let\newcommand\orignewcommand
+\makeatletter
+\renewcommand*{\theHpoemline}{\arabic{verse@envctr}.\arabic{poemline}}
+\makeatother
+
 \frontmatter

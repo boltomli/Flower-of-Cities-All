@@ -58,6 +58,30 @@ From _Annus Mirabilis: The Year of Wonders, 1666_ (1667)
 
 选自约翰·德莱顿《奇异的年代》
 
+\setlength{\afterpoemtitleskip}{0.2ex}
+
+\settowidth{\versewidth}{Such was the rise of this prodigious fire,}
+\poemtitle{215}
+\begin{verse}[\versewidth]
+\begin{altverse}
+Such was the rise of this prodigious fire,\\
+Which in mean buildings first obscurely bred,\\
+From thence did soon to open streets aspire,\\
+And straight to palaces and temples spread.
+\end{altverse}
+\end{verse}
+
+\settowidth{\versewidth}{The diligence of trades and noiseful gain,}
+\poemtitle{216}
+\begin{verse}[\versewidth]
+\begin{altverse}
+The diligence of trades and noiseful gain,\\
+And luxury, more late,\footnote{\textbf{more late}: later to bed than honest tradesmen.} asleep were laid;\\
+All was the night's, and in her silent reign,\\
+No sound the rest of nature did invade.
+\end{altverse}
+\end{verse}
+
 ## \index{Pepys, Samuel}Pepys' Buried Treasures
 
 His Diary on 4 September 1666
