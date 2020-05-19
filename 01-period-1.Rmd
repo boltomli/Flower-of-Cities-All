@@ -2,17 +2,17 @@
 
 # Period 1: London---Birth of a New Order (1558--1659)
 
-## John Lyly: London the Ideal City
+## \index{Author!Lyly, John}John Lyly: London the Ideal City
 
 From ``Euphues' Glass for Europe," in _Euphues and His England_ (1580)
 
 选自约翰·李利《尤菲绮斯和他的英格兰》
 
-## \index{People!Lupton, Donald}Donald Lupton: \index{Place!London Bridge}London Bridge {#lupton}
+## \index{Author!Lupton, Donald}Donald Lupton: \index{Place!London Bridge}London Bridge {#lupton}
 
 From ``London Bridge," in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 4
 
-## \index{People!Herrick, Robert}Robert Herrick Laments Leaving His Native London {#herrick}
+## \index{Author!Herrick, Robert}Robert Herrick Laments Leaving His Native London {#herrick}
 
 ``His Tears to Thamesis," in _Hesperides_ (1648) (written 1629)
 
@@ -45,7 +45,7 @@ From ``London Bridge," in _London and the Country Carbonadoed and Quartered_ (16
 |    Grow young with tides, and though I see ye never,
 |    Receive this vow: ``so fare-ye-well forever."
 
-## \index{People!Herrick, Robert}Herrick's Joyful Return to London
+## \index{Author!Herrick, Robert}Herrick's Joyful Return to London
 
 ``His Return to London," in _Hesperides_ (1648)
 
@@ -72,14 +72,14 @@ From ``London Bridge," in _London and the Country Carbonadoed and Quartered_ (16
 |    Weak I am grown, and must in short time fall;
 |    Give thou my sacred relics burial.^[**Weak ... burial**: Herrick was in fact only 56; he did not die in London. He returned to Dean Prior when his living was restored in 1662 and was buried there on his death in 1674.]
 
-## John Webster: The Decrepitude of Some London Buildings
+## \index{Author!Webster, John}John Webster: The Decrepitude of Some London Buildings
 
 From _Westward Ho_ (1607), Act 2, Sc. 1
 
 \begin{drama}
-\speaker{Honeysuckle}[...W]hat news flutters abroad? Do jackdaws dung the top of Paul's steeple still?\footnote{\textbf{Paul's steeple}: old St Paul's Cathedral lost its steeple to lightning in 1561.}
+\speaker{Honeysuckle}[...W]hat news flutters abroad? Do jackdaws dung the top of \index{Place!St Paul's Cathedral}Paul's steeple still?\footnote{\textbf{Paul's steeple}: old St Paul's Cathedral lost its steeple to lightning in 1561.}
 \speaker{Justiniano}The more is the pity if any daws do come into the temple, as I fear they do.
-\speaker{Honeysuckle}They say Charing Cross is fallen down since I went to Rochelle\footnote{\textbf{Rochelle}: La Rochelle, a prosperous Huguenot (Protestant) city in SW France.};
+\speaker{Honeysuckle}They say \index{Place!Charing Cross}Charing Cross is fallen down since I went to Rochelle\footnote{\textbf{Rochelle}: La Rochelle, a prosperous Huguenot (Protestant) city in SW France.};
 but that's no such wonder: 'twas old, and stood awry, as most part of the
 world can tell. And though it lack under-propping, yet, like great fellows at a
 wrestling, when their heels are once flying up no man will save 'em: down they
@@ -93,7 +93,7 @@ since Charing fell that were not of half so long-standing as the poor wrynecked 
 
 约翰·韦伯斯特
 
-## John Donne: The Lively Streets of London
+## \index{Author!Donne, John}John Donne: The Lively Streets of London
 
 Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593--1594)
 
@@ -212,7 +212,7 @@ Satire I, in _Poems._ 2nd ed. (1635) (first pub. 1633; written c. 1593--1594)
 |    Directly came to me, hanging the head,^[**hanging the head**: also, detumescent.]
 |    And constantly a while must keep his bed.
 
-## William Habington: In Praise of London in the Long Vacation
+## \index{Author!Habington, William}William Habington: In Praise of London in the Long Vacation
 
 From ``To My Worthy Cousin Mr E.C.^[**Mr E.C.** has not been identified.] : In Praise of the City Life in the Long Vacation," in _Castara_ (1634)
 
@@ -245,31 +245,31 @@ From ``To My Worthy Cousin Mr E.C.^[**Mr E.C.** has not been identified.] : In P
 
 ## DRAMA AND THE THEATRE {-}
 
-## Philip Stubbes: Puritan Objections to Stage Plays
+## \index{Author!Stubbes, Philip}Philip Stubbes: Puritan Objections to Stage Plays
 
 From ``Of Stage Plays and Interludes with Their Wickedness," in _The Anatomy of Abuses_ (1583)
 
 选自菲利蒲·斯塔布斯《陋习的解剖》
 
-## \index{People!Shakespeare}Shakespeare: ``On Your Imaginary Forces Work"
+## \index{Author!Shakespeare}Shakespeare: ``On Your Imaginary Forces Work"
 
 From _Henry V_, Prologue to Act 1 (perf. 1599)
 
 选自莎士比亚《亨利五世》
 
-## \index{People!Shakespeare}Shakespeare: The Best Actors Are but Shadows
+## \index{Author!Shakespeare}Shakespeare: The Best Actors Are but Shadows
 
 From _A Midsummer Night's Dream_, Act 5, Sc. 1 (perf. 1595/96)
 
 选自莎士比亚《仲夏夜之梦》
 
-## Thomas Nashe: ``Adieu, Farewell, Earth's Bliss"
+## \index{Author!Nashe, Thomas}Thomas Nashe: ``Adieu, Farewell, Earth's Bliss"
 
 ``Song," in _Summers' Last Will and Testament_ (1600) (written 1592)
 
 选自托马斯·纳什《夏天最后的遗嘱》
 
-## \index{People!Dekker, Thomas}Thomas Dekker: The Plague and Its Victims in 1603
+## \index{Author!Dekker, Thomas}Thomas Dekker: The Plague and Its Victims in 1603
 
 From _The Wonderful Year_ (1603)
 
@@ -277,7 +277,7 @@ From _The Wonderful Year_ (1603)
 
 ## THE COURT AND COURTIERS {-}
 
-## Sir John Davies: ``Our Glorious English Court's Divine Image"
+## \index{Author!Davies, Sir John}Sir John Davies: ``Our Glorious English Court's Divine Image"
 
 _Orchestra: A Poem of Dancing_ (1622) (written c. 1594)
 
@@ -313,7 +313,7 @@ _Orchestra: A Poem of Dancing_ (1622) (written c. 1594)
 |        In this sweet labyrinth did Cupid stray,
 |        And never had the power to pass away.
 
-## Edmund Spenser: Another View of Love at Court
+## \index{Author!Spenser, Edmund}Edmund Spenser: Another View of Love at Court
 
 From _Colin Clout's Come Home Again_ (1595) (written 1590--1591), 771--94 [@Spenser1966]
 
@@ -348,7 +348,7 @@ From _Colin Clout's Come Home Again_ (1595) (written 1590--1591), 771--94 [@Spen
 
 From ``A Courtier," in Sir Thomas Overbury, _Characters, or, Witty Descriptions of the Properties of Sundry Persons_ (1614), No. [5] (attrib.)
 
-## \index{People!Dekker, Thomas}Thomas Dekker: ``How a Young Gallant Should Behave Himself in an Ordinary"
+## \index{Author!Dekker, Thomas}Thomas Dekker: ``How a Young Gallant Should Behave Himself in an Ordinary"
 
 From _The Gull's Hornbook_ [dupe's primer] (1609), ch. 5
 
@@ -356,35 +356,35 @@ From _The Gull's Hornbook_ [dupe's primer] (1609), ch. 5
 
 ## WHO SHOULD 'SCAPE WHIPPING? {-}
 
-## \index{People!Earle, John}John Earle: A Shopkeeper
+## \index{Author!Earle, John}John Earle: A Shopkeeper
 
 From ``A Shopkeeper," in _Micro-cosmography, or, a Piece of the World Discovered_. 5th ed. (1629), No. 70
 
-## \index{People!Middleton, Thomas}Thomas Middleton: A Goldsmith Gulled
+## \index{Author!Middleton, Thomas}Thomas Middleton: A Goldsmith Gulled
 
 From _A Chaste Maid in Cheapside_, Act 1, Sc. 1 (1630) (perf. 1613)
 
 选自托马斯·米德尔顿的戏剧
 
-## Barnabe Rich: Vanity Fair
+## \index{Author!Rich, Barnabe}Barnabe Rich: Vanity Fair
 
 From _The Honesty of the Age_ (1614)
 
-## Thomas Harman: An Abraham Man
+## \index{Author!Harman, Thomas}Thomas Harman: An Abraham Man
 
 From _A Caveat or Warning for Common Cursitors Vulgarly Called Vagabonds_ (1573), ch. 9 (first known publication 1567)
 
-## Robert Greene: Beware of Pickpockets
+## \index{Author!Greene, Robert}Robert Greene: Beware of Pickpockets
 
 From _The Second and Last Part of Coney-Catching_ [@Greene1591]
 
-## \index{People!Middleton, Thomas}Middleton: Roaring Girls
+## \index{Author!Middleton, Thomas}Middleton: Roaring Girls
 
 From _The Roaring Girl, or, Moll Cutpurse_, Prologue (1611) (perf. ?1604--1608)
 
-选自米德尔顿《咆哮女郎》（与\index{People!Dekker, Thomas}托马斯·德克合著）
+选自米德尔顿《咆哮女郎》（与\index{Author!Dekker, Thomas}托马斯·德克合著）
 
-## Ben Jonson: Pickpockets at Bartholomew Fair
+## \index{Author!Jonson, Ben}Ben Jonson: Pickpockets at Bartholomew Fair
 
 From _Bartholomew Fair_, Act 3, Sc. 5 (1640) (perf. 1614)
 
@@ -416,17 +416,17 @@ Than live to be hanged for cutting a purse.\\
 \speaker{Cokes}Sir, I take you for an honest gentleman, if that be mistaking. I met you today afore: ha! Hum'h! O God! my purse is gone, my purse, my purse, etc.\\
 \end{drama*}
 
-## \index{People!Earle, John}John Earle: A Prison
+## \index{Author!Earle, John}John Earle: A Prison
 
 From ``A Prison," in _Micro-cosmography, or, A Piece of the World Discovered_. 5th ed. (1629), No. [12]
 
-## \index{People!Lupton, Donald}Donald Lupton: Bedlam
+## \index{Author!Lupton, Donald}Donald Lupton: Bedlam
 
 From ``Bedlam," in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 19
 
 见 \@ref(lupton)
 
-## \index{People!Dekker, Thomas}Dekker and \index{People!Middleton, Thomas}Middleton: Entertainment Provided by the Inmates of Bedlam
+## \index{Author!Dekker, Thomas}Dekker and \index{Author!Middleton, Thomas}Middleton: Entertainment Provided by the Inmates of Bedlam
 
 From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 
@@ -434,9 +434,9 @@ From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 
 ## THE COMING OF THE COMMONWEALTH {-}
 
-## Andrew Marvell: The Execution of Charles I
+## \index{Author!Marvell, Andrew}Andrew Marvell: The Execution of \index{People!Charles I}Charles I
 
-``An Horatian Ode upon Cromwell's Return from Ireland," in _Miscellaneous Poems_ (1681) (written 1650).
+``An Horatian Ode upon \index{People!Cromwell, Oliver}Cromwell's Return from Ireland," in _Miscellaneous Poems_ (1681) (written 1650).
 
 安德鲁·马维尔的诗
 
@@ -465,13 +465,13 @@ From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 |        And yet in that the State
 |        Foresaw its happy fate!^[**The Capitol's ... fate**: the Capitol was the great temple of Jupiter in Rome, so called because digging its foundations unearthed a human head (Latin caput), which was interpreted as a good omen for Rome's destiny.]
 
-## \index{People!Evelyn, John}John Evelyn: ``The Funeral Sermon of Preaching" {#evelyn}
+## \index{Author!Evelyn, John}John Evelyn: ``The Funeral Sermon of Preaching" {#evelyn}
 
 From his _Diary_ (or _Kalendarium_) on 30 December 1655
 
 选自约翰·伊夫林《日记》
 
-## \index{People!Evelyn, John}Evelyn: Persecution of Royalist Churchgoers
+## \index{Author!Evelyn, John}Evelyn: Persecution of Royalist Churchgoers
 
 From his _Diary_ (or _Kalendarium_) on 25 December 1657
 
