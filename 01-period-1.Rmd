@@ -8,11 +8,11 @@ From ``Euphues' Glass for Europe," in _Euphues and His England_ (1580)
 
 选自约翰·李利《尤菲绮斯和他的英格兰》
 
-## \index{Lupton, Donald}Donald Lupton: London Bridge {#lupton}
+## \index{People!Lupton, Donald}Donald Lupton: \index{Place!London Bridge}London Bridge {#lupton}
 
 From ``London Bridge," in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 4
 
-## \index{Herrick, Robert}Robert Herrick Laments Leaving His Native London {#herrick}
+## \index{People!Herrick, Robert}Robert Herrick Laments Leaving His Native London {#herrick}
 
 ``His Tears to Thamesis," in _Hesperides_ (1648) (written 1629)
 
@@ -45,7 +45,7 @@ From ``London Bridge," in _London and the Country Carbonadoed and Quartered_ (16
 |    Grow young with tides, and though I see ye never,
 |    Receive this vow: ``so fare-ye-well forever."
 
-## \index{Herrick, Robert}Herrick's Joyful Return to London
+## \index{People!Herrick, Robert}Herrick's Joyful Return to London
 
 ``His Return to London," in _Hesperides_ (1648)
 
@@ -251,13 +251,13 @@ From ``Of Stage Plays and Interludes with Their Wickedness," in _The Anatomy of 
 
 选自菲利蒲·斯塔布斯《陋习的解剖》
 
-## \index{Shakespeare}Shakespeare: ``On Your Imaginary Forces Work"
+## \index{People!Shakespeare}Shakespeare: ``On Your Imaginary Forces Work"
 
 From _Henry V_, Prologue to Act 1 (perf. 1599)
 
 选自莎士比亚《亨利五世》
 
-## \index{Shakespeare}Shakespeare: The Best Actors Are but Shadows
+## \index{People!Shakespeare}Shakespeare: The Best Actors Are but Shadows
 
 From _A Midsummer Night's Dream_, Act 5, Sc. 1 (perf. 1595/96)
 
@@ -269,7 +269,7 @@ From _A Midsummer Night's Dream_, Act 5, Sc. 1 (perf. 1595/96)
 
 选自托马斯·纳什《夏天最后的遗嘱》
 
-## \index{Dekker, Thomas}Thomas Dekker: The Plague and Its Victims in 1603
+## \index{People!Dekker, Thomas}Thomas Dekker: The Plague and Its Victims in 1603
 
 From _The Wonderful Year_ (1603)
 
@@ -348,7 +348,7 @@ From _Colin Clout's Come Home Again_ (1595) (written 1590--1591), 771--94 [@Spen
 
 From ``A Courtier," in Sir Thomas Overbury, _Characters, or, Witty Descriptions of the Properties of Sundry Persons_ (1614), No. [5] (attrib.)
 
-## \index{Dekker, Thomas}Thomas Dekker: ``How a Young Gallant Should Behave Himself in an Ordinary"
+## \index{People!Dekker, Thomas}Thomas Dekker: ``How a Young Gallant Should Behave Himself in an Ordinary"
 
 From _The Gull's Hornbook_ [dupe's primer] (1609), ch. 5
 
@@ -356,11 +356,11 @@ From _The Gull's Hornbook_ [dupe's primer] (1609), ch. 5
 
 ## WHO SHOULD 'SCAPE WHIPPING? {-}
 
-## \index{Earle, John}John Earle: A Shopkeeper
+## \index{People!Earle, John}John Earle: A Shopkeeper
 
 From ``A Shopkeeper," in _Micro-cosmography, or, a Piece of the World Discovered_. 5th ed. (1629), No. 70
 
-## \index{Middleton, Thomas}Thomas Middleton: A Goldsmith Gulled
+## \index{People!Middleton, Thomas}Thomas Middleton: A Goldsmith Gulled
 
 From _A Chaste Maid in Cheapside_, Act 1, Sc. 1 (1630) (perf. 1613)
 
@@ -378,11 +378,11 @@ From _A Caveat or Warning for Common Cursitors Vulgarly Called Vagabonds_ (1573)
 
 From _The Second and Last Part of Coney-Catching_ [@Greene1591]
 
-## \index{Middleton, Thomas}Middleton: Roaring Girls
+## \index{People!Middleton, Thomas}Middleton: Roaring Girls
 
 From _The Roaring Girl, or, Moll Cutpurse_, Prologue (1611) (perf. ?1604--1608)
 
-选自米德尔顿《咆哮女郎》（与\index{Dekker, Thomas}托马斯·德克合著）
+选自米德尔顿《咆哮女郎》（与\index{People!Dekker, Thomas}托马斯·德克合著）
 
 ## Ben Jonson: Pickpockets at Bartholomew Fair
 
@@ -416,17 +416,17 @@ Than live to be hanged for cutting a purse.\\
 \speaker{Cokes}Sir, I take you for an honest gentleman, if that be mistaking. I met you today afore: ha! Hum'h! O God! my purse is gone, my purse, my purse, etc.\\
 \end{drama*}
 
-## \index{Earle, John}John Earle: A Prison
+## \index{People!Earle, John}John Earle: A Prison
 
 From ``A Prison," in _Micro-cosmography, or, A Piece of the World Discovered_. 5th ed. (1629), No. [12]
 
-## \index{Lupton, Donald}Donald Lupton: Bedlam
+## \index{People!Lupton, Donald}Donald Lupton: Bedlam
 
 From ``Bedlam," in _London and the Country Carbonadoed and Quartered_ (1632), Part 1, No. 19
 
 见 \@ref(lupton)
 
-## \index{Dekker, Thomas}Dekker and \index{Middleton, Thomas}Middleton: Entertainment Provided by the Inmates of Bedlam
+## \index{People!Dekker, Thomas}Dekker and \index{People!Middleton, Thomas}Middleton: Entertainment Provided by the Inmates of Bedlam
 
 From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 
@@ -465,13 +465,13 @@ From _The Honest Whore_, Part I, [Act 5, Sc. 2] (1604)
 |        And yet in that the State
 |        Foresaw its happy fate!^[**The Capitol's ... fate**: the Capitol was the great temple of Jupiter in Rome, so called because digging its foundations unearthed a human head (Latin caput), which was interpreted as a good omen for Rome's destiny.]
 
-## \index{Evelyn, John}John Evelyn: ``The Funeral Sermon of Preaching" {#evelyn}
+## \index{People!Evelyn, John}John Evelyn: ``The Funeral Sermon of Preaching" {#evelyn}
 
 From his _Diary_ (or _Kalendarium_) on 30 December 1655
 
 选自约翰·伊夫林《日记》
 
-## \index{Evelyn, John}Evelyn: Persecution of Royalist Churchgoers
+## \index{People!Evelyn, John}Evelyn: Persecution of Royalist Churchgoers
 
 From his _Diary_ (or _Kalendarium_) on 25 December 1657
 

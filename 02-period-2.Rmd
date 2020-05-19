@@ -4,7 +4,7 @@
 
 From _Through England on a Side Saddle in the Time of William and Mary_ (1888) (written 1703)
 
-## \index{Defoe, Daniel}Daniel Defoe: London Surging in Size {#defoe}
+## \index{People!Defoe, Daniel}Daniel Defoe: London Surging in Size {#defoe}
 
 From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Letter 2
 
@@ -12,25 +12,25 @@ From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Le
 
 ## THE RESTORATION {-}
 
-## \index{Evelyn, John}John Evelyn: Charles II's Triumphal Entry into London {#evelyn-diary}
+## \index{People!Evelyn, John}John Evelyn: Charles II's Triumphal Entry into London {#evelyn-diary}
 
 His Diary on 29 May 1660
 
 约翰·伊夫林的日记
 
-## \index{Evelyn, John}Evelyn: Bodies of Cromwell and Others Exhumed
+## \index{People!Evelyn, John}Evelyn: Bodies of Cromwell and Others Exhumed
 
 His Diary on 30 January 1661
 
 见 \@ref(evelyn-diary)
 
-## \index{Evelyn, John}Evelyn: Gambling and Debauchery at the Court of Charles II
+## \index{People!Evelyn, John}Evelyn: Gambling and Debauchery at the Court of Charles II
 
 His Diary on 6 January 1662
 
 见 \@ref(evelyn-diary)
 
-## \index{Evelyn, John}Evelyn: James II's Ill-Timed Feast for the Venetian
+## \index{People!Evelyn, John}Evelyn: James II's Ill-Timed Feast for the Venetian
 
 His Diary on 18 December 1685
 
@@ -38,13 +38,13 @@ His Diary on 18 December 1685
 
 ## THE GREAT PLAGUE {-}
 
-## \index{Pepys, Samuel}Samuel Pepys Describes the Plague {#pepys-diary}
+## \index{People!Pepys, Samuel}Samuel Pepys Describes the Plague {#pepys-diary}
 
 His Diary on 3 September 1665 and 14 September 1665
 
 塞缪尔·佩皮斯的日记
 
-## \index{Defoe, Daniel}Daniel Defoe's Imaginative Reconstruction of the Great Plague
+## \index{People!Defoe, Daniel}Daniel Defoe's Imaginative Reconstruction of the Great Plague
 
 From _A Journal of the Plague Year_ (1722)
 
@@ -145,7 +145,7 @@ And nods at every house his threatening fire.
 \poemtitle*{223\\*}
 \begin{verse}[\versewidth]
 \begin{altverse}
-The ghosts of traitors from the Bridge\footnote{\textbf{The ghosts \ldots{} Bridge}: The heads of traitors were displayed on spikes on London \textbf{Bridge}.} descend,\\*
+The ghosts of traitors from the \index{Place!London Bridge}Bridge\footnote{\textbf{The ghosts \ldots{} Bridge}: The heads of traitors were displayed on spikes on London \textbf{Bridge}.} descend,\\*
 With bold fanatic spectres to rejoice;\\*
 About the fire into a dance they bend,\\*
 And sing their Sabbath\footnote{\textbf{Sabbath}: (1) Sunday, when the fire broke out, just after midnight; (2) ``A midnight meeting of demons, sorcerers and witches, presided over by the Devil" (\emph{OED}).} notes with feeble voice {[}\ldots{}{]}
@@ -282,13 +282,13 @@ And from the hearths the little Lares\footnote{\textbf{Lares}: gods of the house
 \end{altverse}
 \end{verse}
 
-## \index{Pepys, Samuel}Pepys' Buried Treasures
+## \index{People!Pepys, Samuel}Pepys' Buried Treasures
 
 His Diary on 4 September 1666
 
 见 \@ref(pepys-diary)
 
-## \index{Defoe, Daniel}Defoe: London Before and After the Fire
+## \index{People!Defoe, Daniel}Defoe: London Before and After the Fire
 
 From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Letter 2
 
@@ -296,13 +296,13 @@ From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Le
 
 ## INSTITUTIONS {-}
 
-## \index{Evelyn, John}John Evelyn: Some Unusual Proceedings of the Royal Society
+## \index{People!Evelyn, John}John Evelyn: Some Unusual Proceedings of the Royal Society
 
 His Diary on 5 April 1682 and 12 April 1682
 
 见 \@ref(evelyn-diary)
 
-## \index{Ward, Ned}Ned Ward: The Rebuilding of St Paul's Cathedral {#ward}
+## \index{People!Ward, Ned}Ned Ward: The Rebuilding of St Paul's Cathedral {#ward}
 
 From _The London Spy_ (1698--1709), Part 5
 
@@ -314,13 +314,13 @@ From _The Spectator_, No. 69 (19 May 1711)
 
 选自约瑟夫·艾迪生《旁观者》杂志
 
-## \index{Ward, Ned}Ned Ward: Crowds at the Entrance to the Royal Exchange
+## \index{People!Ward, Ned}Ned Ward: Crowds at the Entrance to the Royal Exchange
 
 From _The London Spy_ (1698--1709), Part 3
 
 见 \@ref(ward)
 
-## \index{Defoe, Daniel}Defoe: Westminster Abbey
+## \index{People!Defoe, Daniel}Defoe: Westminster Abbey
 
 From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Letter 2
 
@@ -328,11 +328,11 @@ From _A Tour Through the Whole Island of Great Britain_ (1724--1726), Vol. 2, Le
 
 ## ALL THAT LIFE CAN AFFORD {-}
 
-## \index{Johnson, Samuel}Samuel Johnson in Praise of London
+## \index{People!Johnson, Samuel}Samuel Johnson in Praise of London
 
 见 [@Boswell2008]
 
-## \index{Gay, John}John Gay: The Labyrinthine Streets of London {#gay}
+## \index{People!Gay, John}John Gay: The Labyrinthine Streets of London {#gay}
 
 From _Trivia, or, The Art of Walking the Streets of London_ (1716), Bk 2
 
@@ -357,7 +357,7 @@ From _Trivia, or, The Art of Walking the Streets of London_ (1716), Bk 2
 |    She'll lead thee, with delusive smiles along,
 |    Dive in thy fob,^[**fob**: ``A small pocket formerly made in the waistband of the breeches and used for carrying a watch, money, or other valuables" (_OED_).] and drop thee in the throng.
 
-## \index{Gay, John}Gay on Pall Mall
+## \index{People!Gay, John}Gay on Pall Mall
 
 From _Trivia, or, The Art of Walking the Streets of London_ (1716), Bk 2
 
@@ -396,7 +396,7 @@ A letter of hers in _Memoirs of the Life and Correspondence of Hannah More_, ed.
 
 汉纳·莫尔的一封信
 
-## \index{Ward, Ned}Ned Ward: Pork Sellers at Bartholomew Fair
+## \index{People!Ward, Ned}Ned Ward: Pork Sellers at Bartholomew Fair
 
 From _The London Spy_ (1698--1709), Part 10
 
@@ -410,7 +410,7 @@ From _Autobiography_ (1793), ch. 6
 
 ## A WALK ON THE WILD SIDE {-}
 
-## \index{Gay, John}John Gay: Perils of London by Night
+## \index{People!Gay, John}John Gay: Perils of London by Night
 
 From _Trivia, or, The Art of Walking the Streets of London_ (1716), Bk 3
 
@@ -474,13 +474,13 @@ _The Art of Living in London_ (1768), Canto 2
 |    Where all this mockery of Cupid's reign
 |    Ends in remorse, in wretchedness, and pain [_i.e. of venereal disease_].
 
-## \index{Defoe, Daniel}Daniel Defoe on Shoplifting {#moll-flanders}
+## \index{People!Defoe, Daniel}Daniel Defoe on Shoplifting {#moll-flanders}
 
 From _The Fortune and Misfortunes of the Famous Moll Flanders_ (1722)
 
 选自丹尼尔·笛福《摩尔·弗兰德斯》
 
-## \index{Defoe, Daniel}Defoe: Newgate Prison
+## \index{People!Defoe, Daniel}Defoe: Newgate Prison
 
 From _The Fortune and Misfortunes of the Famous Moll Flanders_ (1722)
 
@@ -492,7 +492,7 @@ From _The Complete Letter-Writer: Or, Polite English Secretary_ (8th edition, 17
 
 塞缪尔·理查逊
 
-## \index{Johnson, Samuel}Samuel Johnson: The Crime of Poverty
+## \index{People!Johnson, Samuel}Samuel Johnson: The Crime of Poverty
 
 From _London: A Poem in Imitation of the Third Satire of Juvenal_ (1738)
 
